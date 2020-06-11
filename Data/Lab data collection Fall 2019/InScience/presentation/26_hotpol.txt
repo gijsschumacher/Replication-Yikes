@@ -1,0 +1,35 @@
+de SGP	26
+de PvdA	67
+D66	68
+het CDA	28
+de SP	41
+GroenLinks	85
+de 50+ partij	40
+de Partij voor de Dieren	65
+Forum voor Democratie	7
+de PVV	9
+DENK	-1
+de ChristenUnie	31
+de VVD	21
+
+in-party	Groen Links
+out-party	SGP
+
+politiekevoorkeur3
+1	2	2	3	1	3	2	3	
+
+inparty_emo
+bezorgd	0	minachting	0	boos	0	enthousiast	-1	blij	-1	bang	0	bitter	0	angstig	0	hatelijk	0	afkeer	0	walging	0	trots	0	
+
+outparty_emo
+bezorgd	0	minachting	0	boos	0	enthousiast	0	blij	-1	bang	0	bitter	0	angstig	0	hatelijk	0	afkeer	8	walging	0	trots	0	
+
+disgust2
+in_lobby
+Klaver_lobby.avi
+bezorgd	0	minachting	0	boos	0	enthousiast	0	blij	-1	bang	0	bitter	0	angstig	0	hatelijk	0	afkeer	0	walging	0	trots	0	
+
+disgust2
+out_bedrijf
+Vanderstaaij_bedrijf.avi
+bezorgd	0	minachting	6	boos	0	enthousiast	0	blij	0	bang	0	bitter	0	angstig	0	hatelijk	0	afkeer	9	walging	0	trots	0	

@@ -1,0 +1,5 @@
+bootFun                 Bootstrapping t-statistics
+fdrInteraction          Critical t-statistic
+findMultiLims           Determine Critical t-Statistic For Marginal
+                        Effects Plot
+legfig                  Replication data for Clark and Golder (2006)

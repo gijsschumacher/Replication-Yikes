@@ -1,0 +1,85 @@
+%#%                     Syntactic Sugar for Setting Annotations and
+                        Attributes
+%nin%                   Negative Match
+By                      Conditional Evaluation of an Expression
+Descriptives            Vectors of Univariate Sample Statistics
+Groups                  Operate on grouped data in data frames and data
+                        sets
+Iconv                   Convert Annotations, and Value Labels between
+                        Encodings
+List                    Create a list and conveniently supply names to
+                        its elements
+Mean                    Convenience wrappers for common statistical
+                        functions
+Reshape                 Reshape data frames or data sets
+Sapply                  A Dimension Preserving Variant of "sapply" and
+                        "lapply"
+Substitute              Substitutions in Language Objects
+Table                   One-Dimensional Table of Frequences and/or
+                        Percentages
+Write                   Write Codebooks and Variable Descriptions into
+                        a Text File
+annotation              Adding Annotations to Objects
+applyTemplate           Apply a Formatting Template to a Numeric or
+                        Character Vector
+as.array                Converting Data Frames into Arrays
+as.symbols              Construction of Lists of Symbols
+as_tibble.data.set      Interface to Packages 'tibble' and 'haven'
+cases                   Distinguish between Cases Specified by Logical
+                        Conditions
+codebook                Generate a Codebook of a Data Set
+codeplan                Describe structure of Data Sets and Importers
+coef.style              Formatting Styles for Coefficients, Factor
+                        Contrasts, and Summary Statistics
+collect                 Collect Objects
+contr                   Convenience Methods for Setting Contrasts
+data.set                Data Set Objects
+dimrename               Change dimnames, rownames, or colnames
+duplicated_labels       Check for and report duplicated labels
+foreach                 Loop over Variables in a Data Frame or
+                        Environment
+format_html             Format Objects in HTML, show the HTML Format or
+                        Write it to a File
+format_html.codebook    Format Codebooks as HTML
+format_html.ftable      Format "Flattened Tables" as HTML
+ftable_matrix           Combining flattened tables.
+genTable                Generic Tables and Data Frames of Descriptive
+                        Statistics
+getSummary              Get Model Summaries for Use with "mtable"
+html                    Building Blocks for HTML Code
+importer                Object Oriented Interface to Foreign Files
+items                   Survey Items
+labels                  Value Labels
+measurement             Levels of Measurement of Survey Items
+memisc-deprecated       Deprecated Functions in Package 'memisc'
+memisc-package          Introduction to the 'memisc' Package
+mtable                  Comparative Table of Model Estimates
+mtable_format_delim     Format for 'mtable' Objects for Writing into
+                        File
+mtable_format_html      HTML Formatting for 'mtable' Results
+mtable_format_latex     Format 'mtable' Results for LaTeX
+mtable_format_print     Print Format for 'mtable' Objects
+named.list              Named Lists, Lists of Items, and Atomic Vectors
+percent                 Table of Percentages with Percentage Base
+percentages             Easy Creation of Tables of Percentages
+query                   Query an Object for Information
+recode                  Recode Items, Factors and Numeric Vectors
+relabel                 Change labels of factors or labelled objects
+rename                  Change Names of a Named Object
+reorder.array           Reorder an Array or Matrix
+retain                  Retain Objects in an Environment
+sample,data.frame-method
+                        Take a Sample from a Data Frame-like Object
+sort.data.frame         Convenience Methods to Sort Data Frames and
+                        Data Sets
+subset,data.set-method
+                        Manipulation of Data Sets
+to.data.frame           Convert an Array into a Data Frame
+toLatex.default         Additional Methods for LaTeX Representations
+                        for R objects
+value.filter            Value Filters
+view                    A Generic Viewing Function
+view_html               HTML Output for 'view.
+wild.codes              Table of frequencies for unlabelled codes
+withSE                  Add Alternative Variance Estimates to Models
+                        Estimates

@@ -1,0 +1,35 @@
+de PVV	1
+DENK	1
+de ChristenUnie	1
+Forum voor Democratie	0
+D66	85
+het CDA	57
+de 50+ partij	58
+de SGP	1
+GroenLinks	98
+de Partij voor de Dieren	69
+de PvdA	81
+de SP	80
+de VVD	-1
+
+in-party	Groen Links
+out-party	PVV
+
+politiekevoorkeur3
+1	1	1	3	2	2	1	2	
+
+inparty_emo
+trots	0	blij	-1	enthousiast	0	hatelijk	0	afkeer	0	bitter	1	bang	1	boos	2	bezorgd	1	angstig	0	minachting	0	walging	0	
+
+outparty_emo
+trots	1	blij	-1	enthousiast	0	hatelijk	0	afkeer	0	bitter	0	bang	0	boos	0	bezorgd	1	angstig	1	minachting	0	walging	0	
+
+disgust2
+out_bedrijf
+Wilders_bedrijf.avi
+trots	0	blij	-1	enthousiast	0	hatelijk	0	afkeer	32	bitter	0	bang	1	boos	0	bezorgd	18	angstig	0	minachting	1	walging	1	
+
+disgust2
+in_lobby
+Klaver_lobby.avi
+trots	0	blij	-1	enthousiast	0	hatelijk	0	afkeer	26	bitter	1	bang	1	boos	0	bezorgd	12	angstig	0	minachting	1	walging	0	

@@ -1,0 +1,35 @@
+de Partij voor de Dieren	33
+de SP	39
+de SGP	0
+de VVD	46
+de ChristenUnie	42
+de 50+ partij	5
+Forum voor Democratie	0
+de PVV	0
+GroenLinks	80
+D66	68
+DENK	23
+de PvdA	64
+het CDA	33
+
+in-party	Groen Links
+out-party	FvD
+
+politiekevoorkeur3
+2	2	2	3	2	3	2	2	
+
+inparty_emo
+bitter	1	trots	54	boos	0	afkeer	0	hatelijk	0	bezorgd	41	enthousiast	68	angstig	0	walging	0	minachting	8	bang	1	blij	58	
+
+outparty_emo
+bitter	84	trots	0	boos	57	afkeer	75	hatelijk	64	bezorgd	99	enthousiast	0	angstig	63	walging	79	minachting	71	bang	0	blij	0	
+
+disgust2
+out_lobby
+Baudet_lobby.avi
+bitter	61	trots	0	boos	66	afkeer	96	hatelijk	99	bezorgd	92	enthousiast	0	angstig	0	walging	98	minachting	78	bang	0	blij	0	
+
+disgust2
+in_bedrijf
+Klaver_bedrijf.avi
+bitter	61	trots	1	boos	70	afkeer	70	hatelijk	64	bezorgd	59	enthousiast	1	angstig	1	walging	73	minachting	63	bang	0	blij	0	

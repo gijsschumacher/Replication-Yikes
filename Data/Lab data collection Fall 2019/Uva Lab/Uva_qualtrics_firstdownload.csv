@@ -1,0 +1,1420 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID,Temperature,Age_1,Sex,Education,Student,Income,know1,know2,know3,know4,know5,dsr_1,dsr_2,dsr_3,dsr_4,dsr_5,dsr_6,dsr_7,dsr_8,dsr_9,dsr_10,dsr_11,dsr_12,dsr_13,dsr_14,dsr_15,dsr_16,dsr_17,dsr_18,dsr_19,dsr_20,dsr_21,NfC_1,NfC_2,NfC_3,NfC_4,NfC_5,NfC_6,NfC_7,NfC_8,NfC_9,NfC_10,NfA_1,NfA_2,NfA_3,NfA_4,NfA_5,NfA_6,NfA_7,NfA_8,NfA_9,NfA_10,B5_1,B5_2,B5_3,B5_4,B5_5,B5_6,B5_7,B5_8,B5_9,B5_10,B5_11,B5_12,B5_13,B5_14,B5_15,B5_16,B5_17,B5_18,B5_19,B5_20,Phobic_1,Phobic_2,Phobic_3,Phobic_4,Phobic_5,Phobic_6,Phobic_7,Phobic_8,Phobic_9,Phobic_10,Phobic_11,Phobic_12,lr_placement_1,Ideology_1,Ideology_2,Ideology_3,Ideology_4,Ideology_5,Ideology_6,Ideology_7,Ideology_8,Ideology_9,Ideology_10,Ideology_11,Ideology_12,Ideology_13,Ideology_14,Ideology_15,Ideology_16,Ideology_17,Ideology_18,Ideology_19,Ideology_20,Ideology_21,Ideology_22,Ideology_23,Irradiation,Ebola,Terrorism,food,ttip,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48,Q49,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q57,Q58,Q59,Q60,Q61,Q62,Q63,Q64,Q65,Q66,radiation,radtreatment,ebola,ebolatreatment,terrorism,terrorismtreatment,food,foodtreatment,trade,tradetreatment
+Begindatum,Einddatum,Type antwoord,IP-adres,Voortgang,Duur (in seconden),Afgelopen,Geregistreerde datum,Antwoord-ID,Achternaam ontvanger,Voornaam ontvanger,E-mail ontvanger,Externe gegevensreferentie,Breedtegraad locatie,Lengtegraad locatie,Distributiekanaal,Gebruikerstaal,Wat is het respondent nummer?,Wat is de temperatuur?,Wat is je geboortejaar? - Kies,Wat is je geslacht?,Wat is het hoogste opleidingsniveau dat je hebt voltooid?,Ben je student?,Wat is uw persoonlijk netto maandinkomen?,"Hoe lang is formeel één termijn
+voor een lid van het Europees Parlement?","Welke partij heeft op dit moment de meeste zetels
+in de Tweede Kamer?",Wie was de afgelopen 2 jaar voorzitter van de Europese Commissie?,Wie is op dit moment de President van Frankrijk?,Wie is op dit moment de directeur van het Internationaal Monetair Fonds (IMF)?,"De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Snoep stelen uit de buurtwinkel","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Twee vreemden horen die seks hebben","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - In de hondenpoep trappen","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Stelen van een buurman","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Orale seks op iemand bedrijven","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Naast iemand zitten met rode zweren","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Een student die bedrog pleegt om goede cijfers te halen","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Een pornografische video kijken","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - De hand schudden van iemand met zweethanden","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Een vriend oplichten","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Erachter komen dat iemand die jij niet mag seksuele fantasieën over jou heeft","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Schimmel ontdekken op een paar oude restjes in de koelkast","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Iemands handtekening vervalsen op een officieel document","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Iemand die je net hebt ontmoet mee naar je kamer nemen om seks te hebben","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Dicht bij iemand staan die stinkt","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Voordringen om de laatste kaartjes voor een voorstelling te bemachtigen","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Een vreemde van het andere geslacht die	in de lift opzettelijk tegen je dijbeen aanschurkt","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Een kakkerlak over de vloer zien rondscharrelen","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Met opzet liegen bij een zakelijke transactie","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Anale seks hebben met iemand van het andere geslacht","De volgende zinnen beschrijven een aantal situaties. Kunt u alstublieft
+aangeven hoeveel walging u voelt bij de volgende zinnen, waarbij 0 betekent dat
+u de situatie helemaal niet walgelijk vindt en 6 betekent dat u de situatie
+extreem walgelijk vindt. - Per ongeluk iemands open wond aanraken","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik houd meer van ingewikkelde dan van eenvoudige vraagstukken","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik ben graag verantwoordelijk voor de afhandeling van een situatie die veel nadenken vergt","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Nadenken beschouw ik niet als een plezierige activiteit","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik doe liever iets waarbij ik weinig hoef na te denken dan iets waarbij beslist mijn denkvermogen op de proef wordt gesteld","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik probeer situaties waarin ik waarschijnlijk diep over iets moet nadenken te voorkomen en te vermijden","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik denk slechts zo diep na als nodig is","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - De gedachte om op denkvermogen te vertrouwen als je de top wilt bereiken spreekt mij aan","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik heb echt plezier in taken waarbij ik nieuwe oplossingen voor problemen moet bedenken","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Het leren van nieuwe denkwijzen prikkelt me niet in het bijzonder","Geef in de volgende lijst bij iedere stelling aan in hoeverre deze op u 
+van toepassing is. Kies voor iedere stelling het antwoord dat het beste 
+bij u past. Let op, er zijn geen goede of foute antwoorden. - Ik houd ervan als mijn leven vervuld is van raadsels die ik moet oplossen","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Wanneer ik terugkijk op mijn verleden zie ik dat ik dat de neiging heb om angstig te zijn voor het ervaren van emoties","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Ik voel dat ik regelmatig sterke emoties moet ervaren","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Emoties helpen mensen verder in het leven","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Ik vind het belangrijk om mijn gevoelens te verkennen","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Ik vind sterke emoties overweldigend en probeer ze daarom te vermijden","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Ik zou het liefst zowel de dieptepunten als de hoogtepunten van emoties niet ervaren","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Ik weet niet hoe ik met mijn gevoelens om moet gaan, dus vermijd ik ze","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Emoties zijn gevaarlijk – ze brengen me in situaties die ik liever vermijd","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Het is voor mij belangrijk dat ik in contact sta met mijn gevoelens","Hieronder staan een aantal stellingen. Geef voor elke stelling aan in hoeverre je het ermee eens bent met de volgende schaal: helemaal mee oneens, oneens, niet oneens of eens, eens, helemaal mee eens - Het is voor mij belangrijk om te weten hoe anderen zich voelen",Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Breng leven in de brouwerij,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Voel mee met de gevoelens van anderen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Doe karweitjes meteen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Verander vaak van stemming,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Heb een levendige fantasie,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Praat niet veel,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Ben niet geïnteresseerd in de problemen van andere mensen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Vergeet vaak om dingen op de juiste plaats terug te zetten,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Ben meestal ontspannen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Ben niet geïnteresseerd in abstracte ideeën,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Praat met veel verschillende mensen op feestjes,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Voel de emoties van anderen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Houd van orde,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Raak makkelijk van streek,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Heb moeite om abstracte ideeën te begrijpen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Blijf op de achtergrond,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Ben niet echt geïnteresseerd in anderen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Maak een puinhoop van dingen,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Voel me zelden neerslachtig,Gebruikt u de antwoordschaal hieronder om te beschrijven hoe nauwkeurig elke uitdrukking u (als persoon) beschrijft. - Heb geen goede verbeelding,"Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang om in een bus of trein te reizen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Dingen vermijden die je bang maken","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Ongemakkelijk voelen in grote groepen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Nerveus voelen wanneer u in uw eentje bent","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang in open ruimtes of op de straat","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Zenuwen bij het ontmoeten van nieuwe mensen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Angst bij het geven van een toespraak","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang voor spinnen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang voor insecten","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang voor muizen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang voor slangen","Hieronder
+staat een lijst met problemen en klachten die mensen soms hebben. Lees elk
+voorbeeld aandachtig en selecteer de reactie die beschrijft HOE VEEL ONGEMAK
+DAT PROBLEEM JOU GEDURENDE DE LAATSTE 30 DAGEN HEEFT GEKOST, VANDAAG
+MEEREKENEND. - Bang voor honden","In de politiek hebben mensen het vaak over ""links"" en ""rechts"". Wat is uw positie? Geef je positie weer door gebruik te maken van een schaal van 0 tot 10, waarbij 0 betekent ""extreem links"" en 10 betekent ""extreem rechts"". Welk cijfer omschrijft het best jouw positie? - Links-rechts",Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Seks voor het huwelijk,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Homohuwelijk,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Gelegaliseerde abortus,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Gelegaliseerde euthanasie,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Gelijkheid voor mannen en vrouwen,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Meer geld naar het leger,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Terugsturen van immigranten zonder verblijfsvergunning,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Beperken van immigratie (zoals werkvergunning).,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Meer politiecamera’s op de straat,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Europese eenwording,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Scholen die halal eten serveren,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Klimaat behouden,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Scheiding tussen kerk en staat,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Doodstraf,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Het recht een geweer te hebben,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Meer wetgeving voor banken,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Meer geld naar het onderwijs,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Verklein de inkomensongelijkheid,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Grootste loonsverhoging voor mensen met laag inkomen,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Hogere belasting voor de rijken,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Schaf jagen af,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Vang daklozen op,Geef aan in hoeverre je het eens of oneens bent met elk van de volgende maatschappelijke onderwerpen: - Verbied dierproeven zelfs voor studies naar levensreddende medicatie,Wat vindt u van het doorstralen van rauw vlees met gammastraling voordat het verkocht kan worden in de winkel? [Field-radiation],"Wat vindt u van het gebruik van genetisch gemanipuleerde Ebola virussen door
+onderzoekers in een poging een vaccin te ontwikkelen? [Field-ebola]","Wat vindt u van het sturen van militairen
+naar Tanzania om hen te helpen bij het vechten tegen een nieuwe groep loyaal
+aan Islamitische Staat genaamd de Islamitische Staat in Somalië, Tanzania en Uganda (Jabha Oost-Afrika)? [Field-terrorism]","Wat vindt u van de Voedsel Controle Wet waar de Tweede Kamer binnenkort over stemt? 
+[Field-food]","Wat vindt u van de Transatlantic Trade and Investment Partnership (TTIP), een handelsovereenkomst tussen de Verenigde Staten en de Europese Unie?","Rechts
+
+
+
+
+ Links
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Instructions: Place your left and right index fingers on the E and I keys. At the top of the screen are 2 categories. In the task, words and/or images appear in the middle of the screen. 
+
+When the word/image belongs to the category on the left, press the E key as fast as you can. When it belongs to the category on the right, press the I key as fast as you can. If you make an error, a red X will appear. Correct errors by hitting the other key.
+
+
+
+
+Please try to go as fast as you can while making as few errors as possible.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 1 of 7
+
+
+
+
+x","Negatief
+
+
+
+
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now, the categories have changed, but the rules remain the same. Please try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 2 of 7
+
+
+
+
+x","Rechts
+	or
+	Negatief
+
+
+
+
+	Links
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now the four categories you saw separately will appear together. Remember, each word/image fits in only one of the four categories. The label/item colors may help you identify the appropriate category.
+
+
+
+
+Use the E key for the two categories on the left and the I key for the two categories on the right. Again, try to go as fast as possible without making mistakes. Correct errors by hitting the other key. Practice this combination now. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 3 of 7
+
+
+
+
+x","Rechts
+	or
+	Negatief
+
+
+
+
+	Links
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it. Again, try to go as fast as possible without making mistakes.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 4 of 7
+
+
+
+
+x","Positief
+
+
+
+
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the categories from before have switched sides. Please practice this new configuration now. Remember to try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 5 of 7
+
+
+
+
+x","Rechts
+	or
+	Positief
+
+
+
+
+	Links
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the four categories have been combined again, but in a new configuration. Please practice this combination now, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 6 of 7
+
+
+
+
+x","Rechts
+	or
+	Positief
+
+
+
+
+	Links
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 7 of 7
+
+
+
+
+x","Rechts
+
+
+
+
+ Links
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Instructions: Place your left and right index fingers on the E and I keys. At the top of the screen are 2 categories. In the task, words and/or images appear in the middle of the screen. 
+
+When the word/image belongs to the category on the left, press the E key as fast as you can. When it belongs to the category on the right, press the I key as fast as you can. If you make an error, a red X will appear. Correct errors by hitting the other key.
+
+
+
+
+Please try to go as fast as you can while making as few errors as possible.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 1 of 7
+
+
+
+
+x","Positief
+
+
+
+
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now, the categories have changed, but the rules remain the same. Please try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 2 of 7
+
+
+
+
+x","Rechts
+	or
+	Positief
+
+
+
+
+	Links
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now the four categories you saw separately will appear together. Remember, each word/image fits in only one of the four categories. The label/item colors may help you identify the appropriate category.
+
+
+
+
+Use the E key for the two categories on the left and the I key for the two categories on the right. Again, try to go as fast as possible without making mistakes. Correct errors by hitting the other key. Practice this combination now. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 3 of 7
+
+
+
+
+x","Rechts
+	or
+	Positief
+
+
+
+
+	Links
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it. Again, try to go as fast as possible without making mistakes.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 4 of 7
+
+
+
+
+x","Negatief
+
+
+
+
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the categories from before have switched sides. Please practice this new configuration now. Remember to try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 5 of 7
+
+
+
+
+x","Rechts
+	or
+	Negatief
+
+
+
+
+	Links
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the four categories have been combined again, but in a new configuration. Please practice this combination now, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 6 of 7
+
+
+
+
+x","Rechts
+	or
+	Negatief
+
+
+
+
+	Links
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 7 of 7
+
+
+
+
+x","Links
+
+
+
+
+ Rechts
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Instructions: Place your left and right index fingers on the E and I keys. At the top of the screen are 2 categories. In the task, words and/or images appear in the middle of the screen. 
+
+When the word/image belongs to the category on the left, press the E key as fast as you can. When it belongs to the category on the right, press the I key as fast as you can. If you make an error, a red X will appear. Correct errors by hitting the other key.
+
+
+
+
+Please try to go as fast as you can while making as few errors as possible.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 1 of 7
+
+
+
+
+x","Positief
+
+
+
+
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now, the categories have changed, but the rules remain the same. Please try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 2 of 7
+
+
+
+
+x","Links
+	or
+	Positief
+
+
+
+
+	Rechts
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now the four categories you saw separately will appear together. Remember, each word/image fits in only one of the four categories. The label/item colors may help you identify the appropriate category.
+
+
+
+
+Use the E key for the two categories on the left and the I key for the two categories on the right. Again, try to go as fast as possible without making mistakes. Correct errors by hitting the other key. Practice this combination now. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 3 of 7
+
+
+
+
+x","Links
+	or
+	Positief
+
+
+
+
+	Rechts
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it. Again, try to go as fast as possible without making mistakes.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 4 of 7
+
+
+
+
+x","Negatief
+
+
+
+
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the categories from before have switched sides. Please practice this new configuration now. Remember to try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 5 of 7
+
+
+
+
+x","Links
+	or
+	Negatief
+
+
+
+
+	Rechts
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the four categories have been combined again, but in a new configuration. Please practice this combination now, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 6 of 7
+
+
+
+
+x","Links
+	or
+	Negatief
+
+
+
+
+	Rechts
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 7 of 7
+
+
+
+
+x","Links
+
+
+
+
+ Rechts
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Instructions: Place your left and right index fingers on the E and I keys. At the top of the screen are 2 categories. In the task, words and/or images appear in the middle of the screen. 
+
+When the word/image belongs to the category on the left, press the E key as fast as you can. When it belongs to the category on the right, press the I key as fast as you can. If you make an error, a red X will appear. Correct errors by hitting the other key.
+
+
+
+
+Please try to go as fast as you can while making as few errors as possible.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 1 of 7
+
+
+
+
+x","Negatief
+
+
+
+
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now, the categories have changed, but the rules remain the same. Please try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 2 of 7
+
+
+
+
+x","Links
+	or
+	Negatief
+
+
+
+
+	Rechts
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Now the four categories you saw separately will appear together. Remember, each word/image fits in only one of the four categories. The label/item colors may help you identify the appropriate category.
+
+
+
+
+Use the E key for the two categories on the left and the I key for the two categories on the right. Again, try to go as fast as possible without making mistakes. Correct errors by hitting the other key. Practice this combination now. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 3 of 7
+
+
+
+
+x","Links
+	or
+	Negatief
+
+
+
+
+	Rechts
+	or
+	Positief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it. Again, try to go as fast as possible without making mistakes.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 4 of 7
+
+
+
+
+x","Positief
+
+
+
+
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the categories from before have switched sides. Please practice this new configuration now. Remember to try to go as fast as you can while making as few errors as possible. Correct errors by hitting the other key. 
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 5 of 7
+
+
+
+
+x","Links
+	or
+	Positief
+
+
+
+
+	Rechts
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Notice the four categories have been combined again, but in a new configuration. Please practice this combination now, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 6 of 7
+
+
+
+
+x","Links
+	or
+	Positief
+
+
+
+
+	Rechts
+	or
+	Negatief
+
+
+
+
+
+
++
+
+
+
+Loading all the content...
+
+
+
+
+This should take less than 1 minute
+
+
+
+Please continue the task as you were just doing it, and remember to go as fast as you can while making as few mistakes as possible.  Correct errors by hitting the other key.
+
+
+
+
+When you are ready, please press the [Space] bar to begin.
+
+
+
+
+Part 7 of 7
+
+
+
+
+x",radiation,radtreatment,ebola,ebolatreatment,terrorism,terrorismtreatment,food,foodtreatment,trade,tradetreatment
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6_TEXT""}","{""ImportId"":""QID7_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID23""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID24_2""}","{""ImportId"":""QID24_3""}","{""ImportId"":""QID24_4""}","{""ImportId"":""QID24_5""}","{""ImportId"":""QID24_6""}","{""ImportId"":""QID24_7""}","{""ImportId"":""QID24_8""}","{""ImportId"":""QID24_9""}","{""ImportId"":""QID24_10""}","{""ImportId"":""QID24_11""}","{""ImportId"":""QID24_12""}","{""ImportId"":""QID24_13""}","{""ImportId"":""QID24_14""}","{""ImportId"":""QID24_15""}","{""ImportId"":""QID24_16""}","{""ImportId"":""QID24_17""}","{""ImportId"":""QID24_18""}","{""ImportId"":""QID24_19""}","{""ImportId"":""QID24_20""}","{""ImportId"":""QID24_21""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID16_2""}","{""ImportId"":""QID16_3""}","{""ImportId"":""QID16_4""}","{""ImportId"":""QID16_5""}","{""ImportId"":""QID16_6""}","{""ImportId"":""QID16_7""}","{""ImportId"":""QID16_8""}","{""ImportId"":""QID16_9""}","{""ImportId"":""QID16_10""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID31_3""}","{""ImportId"":""QID31_4""}","{""ImportId"":""QID31_5""}","{""ImportId"":""QID31_6""}","{""ImportId"":""QID31_7""}","{""ImportId"":""QID31_8""}","{""ImportId"":""QID31_9""}","{""ImportId"":""QID31_10""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_3""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_6""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_12""}","{""ImportId"":""QID28_13""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID28_17""}","{""ImportId"":""QID28_18""}","{""ImportId"":""QID28_19""}","{""ImportId"":""QID28_20""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_6""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID32_5""}","{""ImportId"":""QID32_6""}","{""ImportId"":""QID32_7""}","{""ImportId"":""QID32_8""}","{""ImportId"":""QID32_9""}","{""ImportId"":""QID32_10""}","{""ImportId"":""QID32_11""}","{""ImportId"":""QID32_12""}","{""ImportId"":""QID32_13""}","{""ImportId"":""QID32_14""}","{""ImportId"":""QID32_15""}","{""ImportId"":""QID32_16""}","{""ImportId"":""QID32_17""}","{""ImportId"":""QID32_18""}","{""ImportId"":""QID32_19""}","{""ImportId"":""QID32_20""}","{""ImportId"":""QID32_21""}","{""ImportId"":""QID32_22""}","{""ImportId"":""QID32_23""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40_TEXT""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""QID42_TEXT""}","{""ImportId"":""QID43_TEXT""}","{""ImportId"":""QID44_TEXT""}","{""ImportId"":""QID45_TEXT""}","{""ImportId"":""QID46_TEXT""}","{""ImportId"":""QID47_TEXT""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID50_TEXT""}","{""ImportId"":""QID51_TEXT""}","{""ImportId"":""QID52_TEXT""}","{""ImportId"":""QID53_TEXT""}","{""ImportId"":""QID54_TEXT""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56_TEXT""}","{""ImportId"":""QID57_TEXT""}","{""ImportId"":""QID58_TEXT""}","{""ImportId"":""QID59_TEXT""}","{""ImportId"":""QID60_TEXT""}","{""ImportId"":""QID61_TEXT""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63_TEXT""}","{""ImportId"":""QID64_TEXT""}","{""ImportId"":""QID65_TEXT""}","{""ImportId"":""QID66_TEXT""}","{""ImportId"":""radiation""}","{""ImportId"":""radtreatment""}","{""ImportId"":""ebola""}","{""ImportId"":""ebolatreatment""}","{""ImportId"":""terrorism""}","{""ImportId"":""terrorismtreatment""}","{""ImportId"":""food""}","{""ImportId"":""foodtreatment""}","{""ImportId"":""trade""}","{""ImportId"":""tradetreatment""}"
+2019-11-12 09:26:35,2019-11-12 09:31:01,1,,100,266,1,2019-11-12 09:31:01,R_2fIJjIZz28G2edQ,,,,,52.3533935546875,4.9087066650390625,preview,EN,1,12,2,1,5,2,4,1,3,4,1,2,3,3,3,3,3,2,3,3,3,3,3,3,2,2,3,2,3,3,3,2,2,5,4,2,3,4,3,3,3,4,3,3,3,3,2,2,2,2,2,3,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,2,3,3,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,2,2,3,3,3,2,3,2,1,1,2,1,1,,,,,,,,,,,,,,,,,,,,,,"13X1863,22X1044,25C453,24C540,23C557,14C812,16C532,12C605,11C596,18X1029,11X980,10C405,9C493,26X1021,20C412,15X1139,19X902,17X916,21X845,21C380,END","5C695,1X1539,7X870,1X788,3C420,5X964,4X772,8X861,3X780,6X789,6C380,2X981,4C397,3C468,6X947,7C436,7C467,2X884,1C517,8X1036,END","10C878,5C596,24X1013,2C388,21C421,7X980,12C405,8C492,14X2294,3X844,17X1043,4X869,19C341,6C4045,20C37,6C197,15C109,1C99,25X237,1C444,END","16C432,4C60,22C19,1X167,25X133,6C60,9C75,7C92,12C61,2X556,19C116,5C12,26C51,5C38,23C52,4X134,14C109,8C156,11C133,2X1286,13X349,1C35,18C61,2C60,22C68,7X526,15C117,3X597,24X108,8C44,21C21,4X165,12C84,6X212,20X198,3X245,10C108,6X229,17C20,8X237,END","3C655,1C19,5X157,8X229,8C4,5X252,8X612,2C78,1C44,2C36,1C13,8C126,6X253,4C131,2X220,5C133,1C101,7X541,4C12,7C141,5X180,7X236,4C109,4X190,3X244,6X293,2X93,6X163,5X189,6X181,8C53,7C94,3C172,2X653,3C84,6X557,3C381,7X693,1X587,4X254,END","25X527,2X165,17C5,3C13,18C149,3X108,10X253,6X165,14X149,4C21,13C197,7X165,15X132,6C197,22C28,8C22,26C20,5C29,21C46,1X109,END","18X536,2X141,10C45,7X172,23C12,1X118,24X197,1C100,25X412,22C116,3X36,10C77,8X173,13X149,1C5,17C38,5X181,20C28,5X269,26C13,6C28,16X94,7X221,14X132,4C13,12C20,5X220,19X277,7X717,11X580,6C125,15X84,4X205,25X269,2X92,9X214,3C179,21C76,8C4,END",Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-12 11:16:53,2019-11-12 11:36:40,0,145.18.159.82,100,1187,1,2019-11-12 11:36:42,R_6nYglBaQrKwJDG1,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,46,20,1,2,2,1,2,2,2,5,2,3,4,5,6,5,4,4,6,5,3,6,4,3,5,2,6,5,6,4,5,6,4,5,4,2,2,1,5,5,4,3,1,2,4,4,4,4,3,2,2,4,5,3,5,3,4,5,2,1,1,4,2,4,4,5,4,2,2,1,3,2,2,1,4,3,3,1,2,2,5,1,1,1,1,2,6,6,6,6,6,3,4,2,4,4,5,5,6,1,2,5,5,5,5,5,6,6,5,6,6,5,5,5,,,,,,,,,,,,,,,"13C5657,10C1667,12C3628,22C2360,20C2069,19C3303,24C1519,21C1317,14C2260,15C1198,23C2460,25C1597,17C1370,11C1311,9C1704,24C1241,14C1973,26X2863,18C2817,16C1414,END","3C2504,5C956,5C918,8C1061,6C1015,7C988,8C928,7C809,4C878,3C853,1C698,3C763,4C825,4C686,2C878,7C736,6C887,1C785,2C782,8C743,END","17C2935,3C1077,23C3392,7C1203,9C1496,2C856,18C1259,3C819,22C1554,8C1383,14C2044,6C919,11C2614,4C704,24C2197,1C1006,20C1803,6C1368,13C1461,5C1137,END","22C1560,1C895,9C1520,3C1162,23C2590,4C956,13C1170,8C887,23C1569,1C855,18C1252,4C708,15C1067,8C689,26C1263,3C1180,25C1409,6C899,10C1150,6C1188,12C1066,1C1011,24C1170,7C806,20C1464,5C709,11C1022,2C769,21C2772,2C828,16C2184,8C766,19C1122,7C796,14C3937,5C886,14C1342,2C879,17C1912,7C1032,END","2C1642,6C924,7C888,1C758,4C663,5C634,4C710,4C526,5X1190,6C881,6C575,5C522,3X953,1C601,5C736,2C471,8C600,7X1470,8C942,8C655,6X1113,3C1849,3C692,4C790,7C611,1C696,3C1264,5C659,2C662,7C704,1C650,7C652,1C686,4C586,8C846,2C657,6C874,3C710,2C646,8C657,END","17C2779,4C1103,20C2111,3C1008,26C3034,6C1199,24C1019,3C856,11C1474,7C1142,16C2837,8X1429,9C1305,5X1343,25C1431,8C1034,14C4247,1C951,19C1440,2C2147,END","19C1479,2C1016,20X1604,6C3546,24C1054,5X1081,17C1306,4C1220,17C998,2C940,19C1027,8C686,26C1225,7X1186,12C1441,1C1636,9C1559,6C813,23C1297,7C1929,21C1297,4C1043,14C1045,8C993,25C1316,4C774,16C1196,8C744,18C1423,7C819,11C1430,2C1162,22C1449,1X1516,10C1082,5C781,13C1642,3C1152,15C1757,3C1538,END",,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-12 12:05:13,2019-11-12 12:21:55,0,145.18.159.82,100,1001,1,2019-11-12 12:21:57,R_1mfuy37ttkJGvtP,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,47,20,8,2,5,2,3,4,2,4,2,5,2,3,2,4,1,2,3,1,2,5,5,2,3,1,5,5,6,2,4,1,4,5,3,2,3,2,3,4,4,2,4,3,2,4,3,2,2,2,1,4,4,4,4,2,2,4,3,2,4,4,2,4,4,3,2,2,3,2,2,4,2,3,1,1,1,2,2,2,1,1,1,1,1,1,6,6,6,6,6,3,4,2,5,5,1,6,6,2,1,6,6,6,5,6,6,6,3,4,6,2,4,4,,,,,,,,"11C3920,18C1329,14C1905,22C1043,25C852,13C927,17C1006,20X1540,22C1043,16C1453,12C849,10C812,19C743,16C1000,9C692,21X1165,24C1011,15C800,26C829,23C1017,END","5C1577,2C764,3C730,7C595,6C704,1C657,4X1090,7C626,2C584,3C679,6C640,8C763,5C610,1C583,6C653,8C695,8C594,2X1087,3C661,4C580,END","24C1095,7C771,17C1611,4C1110,13C1134,4C827,20C1402,8X1196,10C899,2C84,22X1597,1X1267,25X1517,3C1358,14C1163,6C1202,18X1511,7C1358,16C1117,5C804,END","17C1113,8C900,12X1698,6C1111,9C1275,6C761,15C1796,5C762,22X1142,8C1393,14X1222,3C847,24X1354,2C808,9X1856,3C817,19C949,2C947,23C1354,8C976,10C1063,1C808,26C2079,7X1119,20C1167,7C988,18C1113,5X1813,13C1118,1C749,11X1182,4C988,26C848,7C833,25C1248,2C946,16C823,1C853,21X1742,4C1438,END","6C873,3C655,2C696,7C648,3X1109,3C533,2C541,6C612,8C611,5C647,4X912,8C698,1C556,5C1073,7X932,6C628,2C552,6C576,1C595,7C554,1C577,7C600,8C734,4X765,4C539,3C628,2C543,1C550,5X1470,7C952,3C919,4X1222,5C1027,8X2173,6C851,8C644,4C586,2C648,5C620,1C607,END","25X1302,4C724,15C716,1C605,9X1146,6C703,13C745,8C705,23C849,7C651,18C833,6C676,21C782,2C611,19X1040,3C643,14C645,4C617,12C599,5C586,END","12C672,2C553,26C1162,8C718,16X1001,4C548,20X1020,3C664,10X1091,7C732,13C723,8C700,15X1429,5C736,17C783,4C560,13C629,8C553,19X961,6C759,14C725,7C758,18C1125,1C674,22X990,6C740,21C802,2C591,21C908,2C646,24C912,3C608,11X910,1C639,9X1329,6C721,23C1058,5C651,25X1286,4X858,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-12 12:54:31,2019-11-12 13:19:15,0,145.18.159.82,100,1483,1,2019-11-12 13:19:16,R_TcOzpkNKO1ucjSx,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,48,20,42,2,5,1,3,3,2,1,2,2,3,4,5,4,6,4,3,6,4,4,5,4,4,4,4,3,5,5,3,6,4,5,4,2,3,1,1,5,5,1,4,4,1,3,4,4,2,3,2,4,4,2,4,2,2,4,3,2,3,2,2,3,4,2,4,2,3,2,3,1,2,1,4,3,3,1,3,2,2,3,2,1,1,2,5,5,6,4,6,3,3,4,2,2,4,4,6,2,2,6,5,6,6,6,5,6,4,3,3,6,6,1,,,,,,,,,,,,,,,,,,,,,,"24C3376,10C1896,18C1265,16C1971,15C1297,14C1265,12C939,19C1314,17C1386,16C1175,9C972,22C1852,25C1629,24C1098,13C1816,20C3182,11C882,23C2378,21C1401,26C1030,END","4X2151,6C1110,5C943,5C862,1C880,1C659,7C917,2C836,3C809,5C852,2C888,8C898,8C681,3C638,4C783,4C694,7C846,6X1250,2C780,8C905,END","11X6591,3X2954,25C1696,5C1721,23C2209,1C1159,20X2154,8C1088,15C1565,3C990,13C2420,6C1425,17C1378,4C863,24C1267,7C963,21C1318,2C955,9C1049,8C924,END","14C1257,6C845,26C2155,4C744,24X3831,8C1158,17C1367,6C877,22C1532,7X1166,18C1910,5C820,23X2663,3C1073,19C2165,6X1913,11C3560,8C1110,25C1076,7C880,20X1786,5C883,15C4488,1C1086,9X1703,1C975,12C1612,7C938,13C2825,4C906,21X1523,2C1004,10C1825,4C947,15C1250,2C858,18X2981,3C995,16C1511,1C2034,END","2C2095,3C818,4C679,3C681,1C706,7C625,7C648,3C698,7C764,7C657,7C567,6X1091,3C821,5C697,8C760,5C657,1C813,6C617,4C717,8C997,5C795,6C711,2C674,5C610,4C711,1C737,2C647,8C763,3C833,4C563,1C997,2C585,4C621,1C512,5C716,8C570,6C635,2C733,6C738,8X1437,END","16C4464,6C847,26C1003,2C791,21C996,8C889,13C970,3C736,14C1104,4C657,25C1138,1C753,11C2214,5C1078,20C1060,7C807,12C804,1C777,24C1879,8C721,END","10C880,8C903,9C873,4C730,19C674,4C781,21C778,2C697,18C849,5C668,26C807,6C684,14C933,7C693,15C880,3X778,12X1783,7C1308,20C1380,5C1009,11C887,1C703,17C1237,3C725,19C852,2X1102,13C2439,6C705,24C891,1C684,23X1589,4C1177,25C2105,5C678,16C803,8C750,22C918,8C678,15C809,3C757,END",Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-12 15:49:13,2019-11-12 16:04:43,0,145.18.159.82,100,929,1,2019-11-12 16:04:44,R_Z2KtALAmATmmwFz,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,49,20,8,1,5,1,1,1,2,4,2,4,6,3,6,6,2,6,4,2,4,6,3,6,6,3,5,6,6,6,6,2,5,6,6,2,2,1,1,6,4,1,7,1,1,5,5,2,1,1,2,5,5,4,5,4,2,4,2,1,1,4,1,2,5,4,2,1,2,1,1,5,1,1,1,2,1,1,2,3,3,3,1,1,1,6,6,6,5,5,6,3,3,4,3,2,5,6,2,2,1,4,6,6,4,4,6,6,2,1,3,5,6,5,,,,,,,,,,,,,,,,,,,,,,"10C1951,10C2196,12C2328,26C1781,13C2203,26C1376,24C1901,23C1645,11C1234,17C1236,25C2237,22C1586,20C1620,21C1210,15C1318,14C3454,9C1064,18C882,19C1051,16C1422,END","3C1366,4C733,6C829,1C706,8C906,1C755,4C625,5C621,1C587,2C662,7C681,6C843,8C880,6C657,3C612,7C569,5X1494,2C848,3C907,5C819,END","24C1687,6C1089,19C1296,3X1860,26C1924,4C931,10X1556,8C1511,9C1019,5C927,21C1117,2C902,15C1055,2C1079,17C1179,1C960,18C1079,6C1008,16C1446,7C1072,END","10C1280,1X1146,18C2816,1C859,18C790,8C608,16C690,2C809,17C861,2C968,12C1256,5C1073,24X1482,7X1428,26C2256,4C761,15X1254,4C739,22C816,2X1206,15C2882,8C809,13C928,8C736,14C1086,5C783,11C1276,1X1429,25C1633,6C967,23C1036,7X1232,21C788,3C847,19C902,5C693,20C1020,3C755,9C1386,6C708,END","8C695,3C635,8C694,7C625,2C565,6C579,7C569,2C533,7C576,5C635,3C601,1C669,3C560,2C535,5C599,7C652,2C639,1C682,6C644,8C665,8C562,3C681,4C619,1C590,5C726,6C741,2C596,7C632,4C582,5C603,4C584,4C575,4C532,8C581,5X946,3C905,6C683,6C540,1C548,1C539,END","23C1344,6C581,15C1165,7C771,26C889,1C666,20X1461,2X1718,19C2046,4C889,25C977,3C1065,14C1474,7C802,9C825,8C861,12X1213,5C1075,10C1354,4X1362,END","24C1063,3C661,12C968,4C720,22X1063,4C825,11C1924,1X1259,14C1717,5X1061,15C1415,7C973,10C922,7C690,19C763,8C944,17C915,3C945,25C912,1C705,26C1087,6C980,16C1200,6C774,23C1257,2C719,13X1222,8C962,20C1113,5C928,25C2066,7C985,9C999,2C862,18C1519,4C1063,21C1210,3C1014,9X1107,6C875,END",Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-13 11:56:15,2019-11-13 12:24:57,0,145.18.159.82,100,1721,1,2019-11-13 12:24:57,R_s5sfbxf108vEps5,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,50,20,11,2,5,2,6,2,1,4,2,2,3,4,6,5,1,6,4,1,3,6,4,2,6,2,5,4,5,4,6,3,3,5,4,2,2,1,1,5,5,2,4,1,2,4,4,1,1,2,2,4,4,4,5,5,2,3,1,1,1,3,2,4,4,5,2,2,2,1,1,4,1,2,3,1,1,1,2,2,1,1,2,2,1,3,4,6,5,4,6,4,2,2,4,4,4,6,4,2,1,2,5,4,4,3,5,5,2,1,5,3,6,4,,,,,,,,,,,,,,,"13C2471,26C2176,12C1948,18C1443,11C2229,25C1729,24X3928,20C1974,14C1779,22C2207,9C1618,19C1615,23C3633,22X3299,17C1531,9C1762,10X2528,21C1854,16C1386,15C3319,END","4C1240,3C788,6C858,5C757,4C779,2C784,8C775,1C685,8X1214,3C993,4C750,7C693,1C702,5C673,8C691,2C692,2C613,7C681,6C634,6C592,END","21C1536,7C1312,23C1760,2C950,12C1005,3C779,14C1248,7C778,10X1897,3C809,20C1238,1C977,25C2263,8C831,15C3219,5C855,13C1105,4X1337,26C1040,6C652,END","22C2407,7C797,13X1551,1C622,16X1763,4C792,19C1509,5C645,26C1032,4C876,10C2327,5C789,21X1851,7C845,9C1536,8C672,11C1050,8C748,18C1011,6C840,25X2428,3C743,9C1067,2C633,24C1459,8C910,14X1919,3C694,23C1718,3C903,15C1486,5C679,12C2952,1C671,24C1289,2C754,17C1209,6C795,20C1305,2C666,END","2C680,7C841,2C557,4C618,6C711,7X1078,1C631,1C572,4C706,2C539,7C635,5C565,7C572,1C588,3X1025,8C893,5C534,8C662,1C679,2C529,8C850,8C557,8C564,1C602,3C944,6C711,6C639,3C571,5C665,3C737,4C571,5C698,3C585,5C856,6C450,4C661,7C696,6C625,2C534,4X997,END","13C2343,7C1269,15X2750,1C1283,9C1597,6C1105,19C1251,4C813,10C2905,4C986,22C2671,2C951,25C1237,5C1290,16C1219,3C966,21C1453,8C943,26C1966,7C970,END","10X4543,6C1055,22X1929,6X1383,26C1205,4C858,19C1029,5X1382,12C2574,1C723,11C1434,7C869,16X1836,2C810,13X2614,3C1273,18C2172,2C617,23C2004,3C681,17C1242,1C741,9C1510,2C476,13X1790,6C683,21C2308,5C1037,20X1816,7C1451,15C1134,8C917,24C1105,5C822,14C1299,4C723,24X2020,1C686,25C1217,8C595,END",,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-13 13:02:59,2019-11-13 13:23:55,0,145.18.159.82,100,1255,1,2019-11-13 13:23:56,R_rrp5qrrehIJSddD,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,51,20,2,2,2,1,2,1,3,4,2,2,3,1,3,5,1,4,2,1,3,6,2,2,2,1,5,6,3,4,3,2,4,7,6,1,2,1,1,7,7,1,7,5,5,5,4,3,2,4,3,4,5,3,5,1,5,5,3,2,5,2,1,4,5,3,4,1,3,1,4,2,1,1,4,3,2,1,2,1,1,1,1,1,1,2,6,6,6,6,6,2,3,5,4,6,4,6,6,2,1,5,6,4,3,5,6,5,4,5,5,7,6,6,,,,,,,,,,,,,,,"14C5383,16X14885,18C2094,15C1254,26C1438,17C1094,20C1590,10C918,13C1373,18C1812,12C973,11C1733,25X3461,9C2205,21C1221,22X1717,24C2157,23C1613,19C1270,15C1942,END","6C1480,5C741,4C861,6C1157,5C990,4C846,1C822,4C846,3C710,6C853,2C757,7C749,7C589,3C717,8C973,3C661,8C781,2C717,8C742,1C742,END","13C4039,7C1725,11C1445,3C1173,23C2741,5C733,12C877,2C629,17C926,2C782,26C790,4C974,21C702,8C1142,20C1022,1C702,19C1383,6C677,14C917,6C741,END","18C2311,2C709,13C869,8C749,9C1325,6C701,26C2077,2C613,10C830,3C726,17C1278,7C933,14C973,3C749,22C1061,5C1149,21X1669,4C645,12C901,1C773,16X3997,4C718,19C2198,7C686,15C1438,7C733,11C1645,6C685,16C2173,5X4309,20C1829,8C725,25C1573,1C1205,24C1533,5C701,19C1189,1C740,23C1005,3C765,END","3C728,6C709,2C677,1C549,2C477,8C813,3C621,2C598,5C598,2C630,8C742,4C878,2C542,4C542,7X1286,1C678,5C798,5C750,1C749,5C973,7C1085,3C788,7C717,1C709,6C901,1C669,6C637,7C933,3C725,4C685,7C629,8C741,6C749,5C725,6C637,3C733,4C661,4C605,8C789,8C662,END","20C2032,4C2237,15C2046,2C1629,13C2437,7C2269,19C2269,3C1285,23C3685,4C1125,12X3821,1C1197,9C1245,5C1821,17C4965,8C1534,22C2638,6C3213,26C1157,6C645,END","14C5319,6C1333,9C2606,6C1149,17C1101,5C669,13C1861,5C973,22C1957,2C1197,26C965,7X2229,10C1797,4X3061,13C4637,8C1390,23C6670,1C1125,12C1508,1C2037,25C2133,8C1245,20C2077,7C1141,19X3589,3C1221,15C2534,3C3102,11C2806,6C1085,16C1541,2C917,19C1269,1C1413,21C918,2C662,18C1462,7C782,24C1213,4X2317,END",,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-13 13:54:39,2019-11-13 14:09:54,0,145.18.159.82,100,915,1,2019-11-13 14:09:55,R_7PMfr2KFn38GRHj,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,52,20,5,2,2,1,4,1,2,5,2,3,2,2,4,5,5,4,5,1,3,6,4,4,5,1,4,5,6,5,6,1,6,4,4,3,3,2,5,4,4,3,3,5,3,4,3,3,2,2,2,3,4,3,4,3,5,4,2,1,4,2,3,3,4,3,5,3,3,1,2,2,2,3,4,3,3,3,4,3,5,4,2,1,4,2,5,6,5,5,5,3,3,3,4,5,5,6,6,1,1,5,6,4,4,4,5,6,4,6,5,5,4,4,,,,,,,,,,,,,,,"22X3519,13X2350,16C2094,23C2149,13C3277,17C1461,15C1149,19C1165,25C2262,26C1366,24C870,12C1070,9C934,20C902,14C1677,10C1030,21C1148,18C1188,26C876,11C1141,END","3C1271,8C845,3C693,1C693,7C661,3C637,2C709,2C558,7C678,8C766,6C638,6C526,5C870,1C702,4C702,6C717,4C637,8C701,5C661,4C637,END","10C1369,7C1173,11C1093,8C773,22C1501,7C837,9C925,3C709,20C1734,4C726,25C1086,6C934,14C1006,1C766,24C910,5C693,15C965,1C573,26C1477,2C893,END","18C1143,8C957,12C829,6C725,13C1389,6C725,17C837,5C837,15C1149,8C702,9C854,3C734,21X1254,3C749,22C1029,5X1341,16X1813,4C789,19C1109,7C789,25C1469,7C741,14C1006,4C661,21C1535,2C598,20C886,2C646,23C1014,7C646,26C837,1C685,13C1437,8C717,24C1700,1C613,11C1053,3C597,10C885,2C557,END","7C1175,8C725,4C654,4C574,4C526,3C614,2C558,4C526,2C525,8C637,8C589,8C493,3C517,5C549,8C749,1C605,3C477,1C469,2C453,2C445,2C373,1C381,5C654,3C478,1C790,7C862,6C725,4C709,7C741,6C853,6C589,7C653,6C629,5C565,7C573,1C637,3C581,6C677,5C582,5C525,END","10C2711,2C1437,25C1613,8C1205,19C1702,5C1990,20C2366,7C1349,22C2669,7C1013,23C2541,6C1294,17C1837,1C1453,16C3133,4C741,15C2125,3C853,13C1317,2C669,END","9C1384,8C1229,22C1229,6C717,24C1277,1C813,26C2133,3C613,15X2117,5C758,14C1646,1C654,10C1662,2C662,25C1326,3C654,10C1469,7C732,23X3636,8C933,11C1325,4C837,20C1397,5C965,17C1221,7C813,12C1813,1C765,16C1461,6C774,13C2646,2C734,18C1302,8C637,21C1125,4C709,19C1093,5C845,20C1357,3C613,END",,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-13 14:38:00,2019-11-13 15:02:06,0,145.18.159.82,100,1445,1,2019-11-13 15:02:06,R_2YQH0KdKWtxUSjt,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,53,20,2,2,2,1,1,3,2,4,2,2,3,2,3,3,3,3,2,2,2,4,4,5,2,3,5,2,5,5,2,5,4,4,5,2,3,4,2,5,5,2,3,4,4,4,2,3,2,2,3,5,5,3,3,1,4,5,2,3,4,3,4,4,2,2,3,1,2,3,4,2,4,5,2,2,3,2,4,1,4,3,2,2,1,2,5,6,5,5,6,2,3,4,2,6,6,6,4,1,1,5,5,4,4,6,3,5,3,2,5,4,4,3,,,,,,,,"22C4496,17C2445,18C1950,26C4309,9C1237,20C1405,25C2229,19C1469,24C1773,16X2518,21C1894,11C1398,17C2165,15C1541,14C2733,24C1485,23C2014,12C1021,13C1333,10C1421,END","1X3159,7C3269,1C1173,3C885,5C1109,4C885,3C901,5C925,7C869,8C799,5C917,6C797,2C725,1C981,2C613,4C677,8C781,6X1293,8C797,3C733,END","21C1896,4C1373,15C4333,3C1229,13C1542,2C2038,18C1318,7C1214,25C3029,5X1893,10C1413,6C2292,20C5693,8C1069,12X1749,5C1109,26C1581,4C1230,16C4110,1C1005,END","13X3400,5C1205,20C1605,2C1701,12C1662,1C1046,25C1670,6C845,21C1061,7C1261,17C1533,3C1061,25C2997,8C1444,15C1421,2X1309,14C4405,7C1125,19C2181,6C1901,26C2190,4X1142,11X2638,1C1222,18C1966,8C805,16C1238,5C869,10X1477,4C1189,17C1749,7C869,24C2413,3C1581,22C1349,3C821,9C1405,1C1013,23C2342,6C1269,END","8X2488,7C1421,1C933,4C725,1C829,3C605,4C573,5C838,5C598,1C742,4C662,5C862,7X822,6C846,2C958,8C774,5C661,8C654,8C581,3C797,2C676,2C524,4C516,5C677,3C621,4C1005,7C613,2C621,3C821,2C525,1C565,8C853,6C813,7C717,3C869,6C1125,7C725,6C957,1C1246,6C718,END","16C7304,6C901,21C1245,8C958,11C1422,4C1014,20C1070,5C854,17C1206,1C797,19C1029,5C981,12C1445,7C1493,9C1508,3C636,26C1101,2C757,22C685,4C677,END","21C1704,5X933,12X2277,1C1029,12C750,4C717,25C1518,3C654,18C942,2C558,17C1062,7X1007,15C1133,7C837,10C1013,3C693,26C1077,8X1150,20C4157,8C861,22C1277,2C789,23C1301,6C869,24C1229,7C701,13C845,8C774,14C894,4C709,11C1021,1C757,26C877,5C1029,19C917,2C685,9C1125,6C973,16C4149,3C790,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-13 15:31:46,2019-11-13 15:52:27,0,145.18.159.82,100,1241,1,2019-11-13 15:52:28,R_28S2NLU7DCnZf7b,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,54,20,4,1,4,1,3,3,2,5,2,4,1,4,6,4,2,4,2,3,2,5,5,5,4,4,5,5,3,4,4,5,4,5,5,1,1,2,1,6,5,1,4,1,1,4,4,1,1,1,1,4,5,4,4,4,1,4,1,1,2,4,2,4,5,3,1,2,2,1,3,3,2,2,1,2,2,1,2,1,1,1,1,1,1,3,6,6,6,6,6,4,2,3,3,3,6,6,6,1,1,3,6,4,2,5,2,2,1,6,6,1,6,2,,,,,,,,,,,,,,,"12C4791,25C1469,22C1757,11C2149,18C1589,17C2511,26C2062,9X6726,20C3140,23C2853,26C1301,13C2613,15C1261,19C1293,10C1653,24C7589,14C2733,16C1469,14C2709,21C1693,END","4C2519,3C1717,5C1221,6C1637,4C1197,1C716,6C966,6C830,8C1110,5C1206,8C845,8C621,3C805,7C1381,4C1157,2C1053,2C773,7C757,3C1014,1C806,END","17C2871,7C1933,16C2213,5C2573,20C3005,3C1117,23C3349,3C1077,21X3517,8C2142,10X3190,4C2109,15C4510,8C1742,11X2470,1C3021,18C2893,2C2613,25C2645,6C1165,END","21C2152,5C1109,22C1230,2C1622,9C2302,7C1238,17C9373,1C1661,18C1293,2C989,9C1909,8C1149,13C3885,8C2718,11C2053,8C4397,24C4733,6C2997,10C4334,5C2006,15C3429,4C1605,23C2428,1C2549,22X3317,2C1869,19C1589,6C2581,14C2925,3C1094,26C3358,3C1214,20C1389,3C1373,16X2726,4C1293,25C1798,5X2438,12C3422,7C1453,END","5X2287,5C765,2C733,6C893,3C1581,3C549,6C797,8C2110,4C814,5C1038,1C718,7C598,1C646,4C918,2C678,1C565,4C797,5C709,3C1077,3C645,2C885,7C653,8C1205,1C717,7C733,1C757,2C861,5C645,8X1285,7C925,6C765,8C685,4C838,2C765,8C1053,3C1365,6C838,6C637,4C741,7C813,END","16C6648,6X3078,9C4789,3C1957,18C2164,8C773,15C2197,4C981,10C1557,7X1181,23C3533,4C1749,19C1541,8C1214,24C1318,1C1790,26C3030,2X1798,14C6365,5C2773,END","13C1407,3C1293,17C1645,6C1317,25C1885,4C1285,12C1605,1C1765,20C2141,2C1286,10C1982,7C1662,23C3301,7C998,19C2477,2C1068,24C1084,6C1301,9C2461,1C2125,18C2934,5C1165,15C4525,3C1110,9X2302,8C1813,14X4053,1C1581,21C2989,2C1158,16C1990,8C1118,26C1605,5C1909,22C1893,5C909,23C1301,8C757,11X2565,4C1053,END",,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-14 10:52:32,2019-11-14 11:47:58,0,145.18.159.82,100,3326,1,2019-11-14 11:47:59,R_2qD8PJfgrItpgus,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,55,20,4,2,2,1,1,3,2,4,2,1,1,2,6,5,1,3,2,1,3,6,3,2,4,2,5,1,6,4,4,3,2,5,5,2,4,4,1,6,5,7,5,3,5,3,5,2,1,2,3,5,5,4,5,3,5,4,3,1,3,2,1,5,5,4,3,2,2,1,2,3,2,1,2,1,1,1,4,4,1,1,3,1,1,3,6,6,6,5,5,2,3,4,2,2,6,6,6,2,2,6,6,5,5,2,3,6,2,4,4,4,2,6,"25C2384,22C1998,13C1238,24C1494,20C1213,14C1261,19C845,15C869,23C725,24C1396,11C1052,26C1261,9C909,16X1869,10C1157,16C1869,21C1077,18C1029,17C1285,12C861,END","7C1224,3C853,8C981,3C853,1X1165,8C1117,4C685,5C1109,4C542,6C614,5X1405,6C981,2C725,3C821,1C861,4C693,5C573,2C565,7C700,6X805,END","26C1871,4C748,17C1004,2C638,15C973,5C749,16C1070,1C829,10C933,6C637,14C877,7C965,25C1341,5C645,23C2045,3C814,22C925,8C781,20C997,1C717,END","22C1256,6C766,13C686,2C614,23C950,5C726,21C662,4C510,24C934,6C621,18C669,1C509,9X1181,7X717,11C1197,4C637,12C694,1C1062,17C854,2C1037,25C653,8C765,14C1117,8C797,19C845,7X1037,15C797,2C597,16C989,3C599,22C630,4C510,10C662,8C814,12C598,3C702,20C1190,7C790,26X1094,5C1469,END","1C768,8C749,3C581,5C661,1C573,8X941,1C741,2C638,7C686,6C686,4C646,5C638,4C742,6C557,7X1149,2C597,6C677,4C621,8C557,3C1005,3C533,1C653,4C613,3C574,8C614,5C750,2C630,7C638,6C630,4C526,5C622,1C910,6C614,7C574,7C493,3C653,2X1158,8C597,5C885,2C580,END","24C1608,7C1165,12C1501,2C1181,23X2797,5C1493,18C1092,7C1205,15C1213,8X1389,16C1285,4C837,19C1397,6X1278,17C2085,1C981,10C901,2C902,20C1654,3C966,END","20C1415,6C844,10C828,3C756,26C1084,2C949,21X1677,4C1125,15C2109,6C725,22C1037,5C1117,22C1149,3C677,14C1533,4C678,24C942,7C694,25C982,1C813,11X1589,2C813,19C1005,1C749,17C1405,8C933,9C1125,6C877,17C982,1C718,16C1150,7C918,23C1982,8C806,13C741,4X1613,18C1541,5C949,12C1581,8C878,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-14 12:19:47,2019-11-14 12:47:15,0,145.18.159.82,100,1647,1,2019-11-14 12:47:15,R_DNAsdHQ2xO9RQ2J,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,56,20,7,1,5,1,2,4,2,5,4,3,2,1,2,5,1,1,5,3,3,6,2,2,6,2,5,4,5,3,6,6,3,5,5,4,3,3,7,3,5,7,3,2,3,4,4,2,3,2,2,5,5,5,5,4,2,4,1,4,3,4,3,5,5,3,2,2,1,2,1,2,1,1,1,1,2,1,2,2,1,1,1,1,1,3,6,6,5,5,6,4,5,3,4,5,6,6,6,1,1,6,6,5,4,5,3,6,3,4,6,2,4,4,,,,,,,,"21C2567,22C2213,24C2173,20C1693,11C981,13C1197,26C1173,16C4317,18C2421,24C2277,15C1341,19C1254,10C1214,9C1598,25C1582,14C5885,23C2877,12C1934,17C1718,13C1165,END","1C2727,6C1229,5C1085,4C1053,4C1021,5C861,3C869,2C1261,8C789,1C773,4C941,7C789,6C1302,3C822,7C686,1C782,8C846,6C1046,5C806,2C750,END","9X18463,8C5557,14X6941,2C2197,17C2349,4C2261,24C7885,1C1462,18C5205,5C1358,19C1492,7C1156,26C2029,3C2309,12C6365,6X2037,11C2773,1X2150,21X3006,5X3189,END","17C3104,3X1749,13X2029,2X1301,26C2357,7C1389,23C1789,6C1182,12C2206,2C1054,24C5406,4C1189,25C2437,8X2085,12C1902,7C1101,19C1461,4C845,16C3957,2C1021,14C6181,8C981,15C7357,7C1061,18C1886,3C1134,20X1766,3C1270,11C1357,5C1029,9C1533,1C997,10C3069,5C1094,21C1814,6C1270,20C2565,6C1613,22C1869,1X1509,END","6C2047,3C917,6C829,1C829,5C741,7C845,6C685,3C773,8C805,6C925,8C765,1C661,4C1093,4C622,7C726,2C710,1X1638,7C782,3C677,4C773,5C765,1C637,5C717,7X1373,4C1013,3C693,8C677,8C718,2C622,7C814,2C645,6C669,1C589,4X1157,5C909,2C629,3X1325,2C637,8C693,5C749,END","20C3392,2C901,15C1293,6C965,10X2573,3C1149,21C1253,5C1245,25C1421,8C1061,26C1597,3C1429,23C3333,8C1110,17C1333,7C1701,16X3541,4C1189,14C2054,1C781,END","26C1576,8C862,22C790,4C894,9C1022,5C934,19C973,7C918,13C1157,1C732,24C900,4C732,11C1021,3C1397,18C1229,8C1469,20C1525,5C885,12C1333,3C661,21C1245,7C821,15C1213,5C1317,23C1942,6C694,9C733,1C637,25C2933,2C1189,10C1005,2C661,16X1709,2C854,14C885,6C814,25X1798,1C2510,17C1014,7C838,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-14 13:19:14,2019-11-14 13:40:39,0,145.18.159.82,100,1284,1,2019-11-14 13:40:39,R_AKWQdgjr1WEwv3H,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,57,20,1,2,5,1,2,2,3,2,2,1,2,4,4,4,1,2,4,1,4,3,2,4,3,1,4,3,5,4,3,2,2,5,5,2,3,5,5,3,3,2,2,2,4,2,4,4,2,2,4,3,4,4,2,2,5,2,2,2,5,3,2,3,4,2,4,2,2,3,4,3,2,2,4,4,4,1,3,4,1,2,4,1,1,3,6,6,6,5,6,3,4,3,2,4,5,5,5,2,1,2,4,4,3,3,4,5,2,6,2,5,6,3,,,,,,,,,,,,,,,,,,,,,,"9C7311,14C1741,16C2293,22C4133,19C1549,25C2958,18C3773,11C1109,12X4645,23X6397,15C3742,20C3846,17C3692,16X4861,21C1741,13C1525,10C838,24C3133,21C2333,26C1006,END","1C1344,8C1093,5C749,3C677,3C597,2C742,5C678,7C630,1X1150,3C2134,2C685,7C653,6C1381,6C573,5C2381,8C716,2C661,7C1197,4C709,4C621,END","25C5544,3C1270,26C2270,6C1286,22C1253,8C1382,20C4549,5C1244,16C2421,8C1117,10C1765,2C1213,13C1677,4C933,23C7453,1C909,17C2741,3C1021,15C3013,7X2213,END","19C2632,7C1022,15C2854,5X1460,17C2069,3C965,22C3789,4C1045,21X2166,3C1525,12X3797,6C1398,18C1486,6C1470,24C1606,7C1022,10C1501,1C909,26C3453,8C1252,14C2805,2C806,25X4133,5C1045,20C1269,6C1037,22C2325,1C997,9C3125,2C909,15C1797,1C1013,23C3797,4C1501,11X2798,7C1270,16X4606,3C1037,13C1085,8C853,END","1C2415,2C589,5C765,4C629,3C725,7C837,1C733,8C989,4C701,7C733,8C1301,6C845,8C1990,8C478,3C622,2C558,1C638,4C494,5C590,1C550,8C670,6X989,5C653,2C597,4C541,6C1045,2C1053,5C726,6C654,6C477,2C589,3C861,1C517,7C949,5C693,3C765,7X997,3C685,4C581,7C477,END","10C2184,6C869,20C2821,5C821,24C1733,8C1045,17C3301,3X1550,22C2662,2C933,19C1581,4C629,15C5157,6C814,26C2365,4C845,13C1517,7C829,14C3741,1X1333,END","20C3375,7C885,25C3197,2C829,12C3653,4C1046,9C2702,3C919,17C1742,2C910,15C1573,6C1229,19C1397,4C884,21C1756,6C1005,18X2229,6C957,10C829,2C1125,26C1613,7C653,11C2517,8C1013,13C894,5C1542,22C1270,5C669,24C1205,1X893,19C1029,8C1261,23C1533,3C829,16X1621,1C1174,14C2814,7C846,14C702,1X1382,END",Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-14 14:09:18,2019-11-14 14:33:31,0,145.18.159.82,100,1452,1,2019-11-14 14:33:32,R_22Sb1qCXbBKgHeq,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,58,20,2,2,2,1,2,3,2,1,2,2,4,3,5,6,2,4,4,2,4,6,2,4,5,3,4,3,3,3,6,5,5,5,4,2,4,4,3,5,5,3,3,4,2,4,4,2,1,2,2,4,4,3,5,2,2,3,3,2,4,4,2,3,4,3,1,2,3,1,2,3,2,1,1,1,1,1,2,1,1,1,4,2,1,5,6,6,6,4,6,3,3,3,4,4,5,5,4,1,1,4,4,4,3,2,6,4,2,4,6,5,5,6,,,,,,,,,,,,,,,,,,,,,,"14C13449,20X33276,11C2253,25C2470,24C1878,18C2638,17C1653,26C1133,9C1397,16C1189,21C2069,22X3525,23C7527,12C1812,10C1772,19C837,25C1261,13C2421,15X4261,9C3549,END","1C1352,2C677,6C829,8C1565,6C837,2C677,4C869,2C574,3C742,8C774,6X1094,7C1574,3C710,8C750,5C1022,3C821,5C765,4C717,7C781,1C717,END","17C1303,4C1461,11C3806,3C1389,23C1989,5C1189,26C1462,7X1630,22C2918,2C774,14C2141,6C925,25C2421,6C948,18C3085,1C901,15C1325,8C1381,9C2133,4C717,END","14C3408,2C918,26X1974,1C973,18C3757,4C733,23C1365,4C797,19C1726,7X1078,15C2670,6C1062,14X1494,3C774,17C941,5C893,25C885,8C901,24C3132,3C789,21C1085,7C1277,13C1253,1C837,20X2117,2C53,9C3197,8C910,22C1246,5C942,20C1566,1C1374,11C1589,7X1125,10X3493,6C1197,16X1630,8C1078,12C1382,4C774,END","3C1343,8C989,2C1317,5C853,2C732,4X980,2C732,8C765,2C701,5C757,1C605,8C773,2C597,7C934,7C541,5C717,6C669,1C1077,1C693,3C837,6X1101,4C981,6C750,1C670,4X1062,5C774,3C590,6C742,8C670,6C614,5C678,1X998,7C726,3C812,8C980,3C1164,4C748,7C629,4C718,7C541,END","21C4671,1C1909,18C2677,7C597,22X1990,5C1542,16C2061,7C933,14C1325,2C829,24C3317,4C877,12X2925,3C894,10C1582,1C557,11C1221,6C765,25C749,8C533,END","13C1231,6C773,26C1429,3C885,21C1493,8C597,11C1045,2C525,18C1365,2X1293,26X3861,1X829,14C5605,5X958,20C1430,7C757,11C1125,4C605,10C1749,5X789,23C2653,8C678,12C1325,4C661,24C2805,1X957,9C1189,3C621,22C1661,5C741,17C3997,7C621,25C981,4X1365,16C2269,2C1013,15C3029,7C1005,19C3381,6C1693,END","Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-14 15:03:31,2019-11-14 15:23:05,0,145.18.159.82,100,1173,1,2019-11-14 15:23:05,R_3HqwAZ8ohdY1CTP,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,60,20,6,2,2,1,2,3,2,4,4,2,2,2,5,5,2,4,5,3,4,5,2,4,5,2,5,4,6,4,5,4,5,4,4,3,3,2,4,5,5,2,4,3,4,3,4,2,2,2,3,4,4,3,4,3,3,4,2,2,3,4,3,4,4,4,3,4,3,2,2,3,2,1,3,3,2,3,3,4,4,4,2,5,2,4,5,5,5,5,5,3,3,4,4,4,3,5,4,3,3,5,5,3,3,4,5,4,3,2,5,3,5,6,,,,,,,,"24X10159,18C1745,14X4756,18C1420,19X5160,9C1852,12C2126,16C2029,14C2196,22C2707,13C1316,15C3595,20C1590,11C1308,10C2028,26C1526,23X3006,21C1681,25C1130,17C2945,END","4X3280,4C792,6C1278,1C831,6C843,1C703,3C783,7C660,4C690,8C769,5X1304,2C655,7C683,8C763,7C610,5C584,3X1325,3C541,6C653,2C591,END","14C1840,8C1756,26C1538,2C913,21C888,5C843,12C1126,3C861,11C1422,1C739,13C1090,7C931,10C1217,1C807,23C1779,8X2159,19C1285,4C1008,20C1331,6X1082,END","11C1032,2C902,22C1350,5C757,9C1349,8C730,25C1466,6C708,20C1270,6C711,16C1728,1C959,15X2029,3C895,10C1328,8C840,12X1716,1C1074,9C1118,3C893,22C1150,2C661,14C1344,2C791,19C1301,7C685,24C1519,4C879,13C1016,6C732,21C814,4C1057,18C1276,4C669,17C1095,7C719,26C1064,8C993,23C1711,5C974,END","3C864,7C738,1C1049,4C699,3C692,2C558,8C637,6C752,1C576,7C757,2C684,2C517,4C622,5C707,7C667,7C605,6X1235,5X2246,2C624,5C718,6C621,8X1034,8C653,8C592,3C638,6C825,1C708,1C693,4C646,6C752,2C696,7C729,4C681,5C626,1C583,8C829,3C617,3C589,4C732,5C755,END","14C1239,7C1358,10C980,1C618,19C1358,1C812,25X2640,3C987,17C872,7C634,15C1354,6C725,23C2493,8C1099,16X2565,5C889,24C1004,2C649,26C1011,4C695,END","13C1103,3C551,24C1054,5C848,20C1458,6C789,19C1466,8C692,16C1422,2C666,22C956,7C731,15C1026,5C766,26C1124,7C669,9C1023,6C634,12C926,3C694,11C920,8C671,17C985,2C534,18C877,4C695,14C2232,2C611,10C799,3C558,21X1076,1C702,23C1422,6C849,12C1323,1C717,25C1748,7C738,21X2147,4C1096,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-14 15:52:52,2019-11-14 16:13:03,0,145.18.159.82,100,1210,1,2019-11-14 16:13:03,R_217yUt9mfQS4TPX,,,,,52.350006103515625,4.9167022705078125,anonymous,EN,61,20,6,2,5,1,1,3,2,5,2,4,3,1,4,5,3,1,5,1,2,6,2,4,4,2,4,5,6,3,3,6,2,5,4,2,2,2,3,4,4,4,3,2,1,3,2,2,2,2,3,3,3,3,4,3,3,3,2,2,3,3,2,3,4,2,3,2,4,2,3,3,2,1,4,2,1,1,3,1,1,1,1,1,1,5,3,5,5,6,5,3,4,4,2,5,5,3,5,3,2,3,4,5,4,3,2,6,2,4,4,4,6,6,"25C10920,11C8653,21C2221,10C1222,12C989,18X7669,25C1789,13C980,17C892,20X1677,16C1933,11C1061,24X1997,23C69,15C1629,19X1725,14C1437,22C1109,9C909,26C958,END","7X3224,7C1173,8C1405,3C877,7C718,4X1303,5C982,2C718,6C773,1X1365,5C757,4C733,8X1269,3C629,1C597,6C581,4C709,1C773,5C933,2C669,END","14C1672,3C1845,17C2661,8C1285,22C1197,4C1061,16X2262,1C1190,19C773,6X1285,20C1469,8X1381,26C1125,7X1501,10C1157,3C1022,23C822,2C702,13X1374,5C646,END","14C1184,1C813,18C837,5X1349,17C1101,2C837,24X2437,6X1510,26C838,1X1030,11C1637,7C885,21C901,3C869,9C1149,5C724,25X1428,2X1317,20C1117,7C853,19C709,4C797,23C965,8X1157,16X1125,7C1837,15C949,8C813,10X966,4X1342,12C1670,3C606,15C981,4C701,23C789,1C645,22C821,6X1213,13C725,5C725,END","7C1303,3C813,1C805,5C701,4C613,2C717,5C637,8X1197,7C637,7C486,8X1238,4C789,7C677,1X949,3C781,3C477,8C765,4C581,6C517,3C573,2C653,8C573,1C541,7C933,8C533,5C398,4C678,6C502,6C526,1X870,3C774,2C406,1C454,6C606,5X1158,5C494,2C518,6C509,4X877,2C756,END","19C2335,7X1413,24C2221,1C797,12X1845,2C909,14X1765,5C1957,25C1782,1X2166,13X1638,6C1006,9C1422,7C1245,23C1493,3X2253,26C1292,8X1429,11C877,4X1349,END","15C1359,7X1349,9X1573,1C725,24C821,2C765,25C798,6C773,23X1485,6C485,24X1013,1C309,14X861,6X901,26X1021,8X813,19X1365,4C621,13X1221,7C630,22X1454,8X1510,11C1094,3X1342,18C782,5X2334,10C1221,4C965,17X1957,2C1990,21C1453,8C877,20C2109,3C1253,17X1981,1C853,16C1877,2C965,12C1726,5X1398,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-14 16:43:22,2019-11-14 17:07:43,0,145.18.159.82,100,1460,1,2019-11-14 17:07:43,R_1QMFbjgIKycT9kN,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,62,20,5,2,5,2,4,3,2,3,2,5,2,4,5,3,1,2,2,3,3,2,4,4,1,1,5,4,6,5,2,4,6,4,2,2,2,2,1,5,6,2,3,5,3,3,4,3,1,3,1,4,5,4,5,1,4,4,4,1,4,5,1,4,5,3,2,1,2,1,4,4,1,1,4,3,1,1,3,4,1,1,1,1,1,2,6,6,6,6,6,1,1,2,2,5,5,6,6,2,1,4,5,5,4,6,4,5,2,2,6,6,5,5,"10C6048,26C4222,12C1902,24C1725,23C3181,9C2077,19C8734,22C3165,14C2333,17C1542,13C2718,16C1854,18C1413,21C1253,25C2901,20C1509,11C886,15C4389,23C1397,13C1413,END","2C1832,5C1477,2C1517,6C1814,8C974,7C918,4C1414,2C870,7C1166,1C1925,5C901,1C1845,6C1133,6C789,3C782,3C606,4C1157,4C589,8C741,7C566,END","14C2544,1C1885,23C2550,4C1558,22C3054,7C1149,9C1949,1C1437,13C1461,5C973,11C1478,6C1006,24C1838,3C1022,19C1622,8C1062,12C2462,2C781,18C1597,7C932,END","23C1119,1C805,13C1597,3C1181,26C1005,7C605,9C1653,6C837,25C2085,5C1837,13C1661,2C709,24C1365,6C1077,20C1693,5C709,21C957,3C766,17C1078,7C942,21C2733,3C709,15C1197,8C733,22C3069,1C1725,12C822,5C2174,10C1142,2C590,19C1110,8C621,11C2141,4C2029,16X6061,2C1445,18C2486,4C1349,14C2117,7X2701,END","6C2584,1C957,1C1222,1C661,5C629,6C685,5C613,2C765,4C613,5C789,6C541,7C917,4C1429,4C581,8C637,6C597,2C654,7C790,3C838,8C934,3C838,8C1014,2C966,1C1158,8C901,8C1477,3C997,7C725,2C805,3C742,5C949,1C1054,6C773,7X2245,4C1285,4C693,7C973,5C1021,2C741,3C925,END","12C20305,2X14357,21C1389,1C1893,22C3469,5C1669,26C1317,3X5325,13C1093,4C1797,15C1997,5C1901,11C2133,6C1965,24C1701,8C1285,20C3333,3C1533,14C9054,7C1461,END","14C2567,8C1309,23C3965,6C1525,17C2965,1C2021,12C3878,4C4158,9C2277,7C1413,11C1933,7C2021,16C3326,3C1846,18C1198,3C1589,26C1469,2C1965,19C4844,5C1365,24C1701,5C886,21C1229,2C1101,10C1869,1C1085,15C3341,8C1710,13C2606,7C2062,25C3045,4C1197,18C3269,1C1526,20C3549,6C1173,22C1469,6C989,15C2061,3C1077,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-18 14:05:26,2019-11-18 14:38:59,0,145.18.159.82,100,2013,1,2019-11-18 14:39:00,R_1ILS5WGklAxFiLW,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,63,20,21,2,5,2,5,5,2,5,2,2,5,4,4,6,3,5,5,4,5,6,5,5,6,4,4,4,5,4,4,3,5,5,4,2,2,2,2,5,5,3,4,2,1,4,3,2,2,2,2,4,4,2,4,4,2,3,2,2,5,4,2,2,4,4,2,2,4,2,1,2,2,1,1,2,1,1,2,2,1,1,1,1,1,4,4,5,5,4,6,3,4,2,2,4,5,5,6,1,2,4,4,5,4,3,3,5,2,4,3,3,4,3,,,,,,,,"18X10621,24C5459,19C2094,12C1278,19C3929,26C2153,15C2089,11C2187,12C1313,25C1553,13C2124,22C1487,10C1594,23C2087,17C2705,14C1690,21C1403,20C1706,9C2107,16C1404,END","6C2567,7C1466,2C1734,2C1413,8C1314,7C1683,3C1165,4C1251,1C1160,1C1294,5C976,8C1806,6C1172,8C1123,4C1162,6C1073,2C2092,3C1645,4C1208,5C950,END","11X5687,5C6088,26X8609,1C2763,18X8904,2C1875,17X12755,6C1641,24X8908,6C2278,9X9160,4C2875,14X11492,7C2020,25C4770,4C1700,16C4765,3C1685,21C1750,8C1957,END","9X7134,4C1474,11C4222,4C2594,14X8302,1C1495,26X6431,1C1138,20X6450,3C1373,20C3388,7C1738,23X7586,5C3397,22C3515,7C2468,25C1954,6C1278,10C5263,8C2520,16C3234,8C2973,13C2916,6C2396,14X7369,5C1895,21C1219,2C1103,15C3368,2C1534,24C3093,4C2525,17X6318,7C6535,12X7037,2C1600,18C3680,3C1367,19C3063,5C1634,END","6C3408,6C1276,3C1301,7C1135,6C2191,8C1196,5C1113,1C922,4C708,4C725,8C789,7C1082,5C901,3C1094,2C1314,8C976,2C1070,4C1073,7C828,8C863,4C947,6C1290,1C1245,4C1128,1C825,1C742,3C726,7C918,2C878,7C1032,3C1516,2C774,5C1013,5C650,3C854,1C857,8C877,6C872,5C618,2C846,END","25X9343,5C2182,10C1993,8C1270,23C3866,2C1467,21C2814,3C1259,12C2428,7C1209,11C3357,1C1695,22C2030,6C1255,13C1923,2C3379,19C2568,4C1304,9C1641,6C3580,END","12C1607,7C1100,10C1894,6C1159,9C1409,7C1106,23C1964,8C1882,17X6965,8C1618,21C4273,2C1252,19C1462,6C1288,13C4467,7C1247,21C1842,1C1269,22C1920,2C1240,11C3764,5C1305,18C5147,2C1057,16X3389,3C1723,12C2052,4C886,26C1369,4C2350,15C1789,4C1383,24C2696,8C1619,14C1464,5C1098,25X3667,3C1502,20C1544,1C1399,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-18 15:17:27,2019-11-18 15:38:47,0,145.18.159.82,100,1280,1,2019-11-18 15:38:47,R_1N9OxAHc7smduyt,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,64,20,8,2,5,1,2,3,2,4,2,2,4,4,3,6,2,4,5,2,3,5,5,2,5,3,5,4,6,4,4,3,5,6,6,2,2,2,3,5,7,3,5,2,3,4,4,2,2,2,2,4,4,4,4,4,2,3,2,1,2,4,1,4,4,4,2,1,2,1,1,2,1,1,1,2,1,1,2,1,2,1,2,1,1,7,5,6,6,5,6,4,5,4,4,5,3,5,6,3,2,5,5,4,4,2,3,5,2,2,7,4,5,6,"17C7241,16X4245,12X4525,13X2493,14C5525,21X2285,18X3469,14X5605,22X5053,20C1533,15X1957,26X4261,10C1870,9C1974,26X2197,19C1421,11C5677,23X6375,24X5245,25X3501,END","7C1408,2C933,6C1205,8C1365,8C845,1C869,7C1357,5X2262,6C1062,3C702,2C670,7C702,4C1174,1C709,5C1213,4C1573,2C2388,3C653,4C685,5C3509,END","25X2992,4C1847,17X2973,2C1405,16C3629,4C1637,18C2166,7C1158,23X2870,5C1782,12C4309,8C1532,9X2333,1C3141,13C1965,6C3053,24X3421,7C2301,22X3070,3C1222,END","25X2951,1X4759,20C2333,6C1101,9X2541,8C1421,16X3933,2C3173,22X2053,4C1029,23X4693,7C974,12C1486,2C1118,26X4749,6C3301,9X3581,8C2325,24C2701,3C1373,11C2053,7C973,10X3157,5C1381,14C2351,4C1093,15C1845,5C1261,19X2709,4C2213,17C1509,3C1566,18C2462,6C1830,19C2214,1C1013,21C2181,7C1324,13C2989,3C1085,END","2C1032,3C733,6C893,7C1861,1C870,2C1278,4C734,4C686,8C726,3C590,8C630,5C1118,7C654,4X1494,6C853,6C684,2C1077,8C708,8C669,1C757,4C757,6C797,5C837,3C789,1C565,7C837,1C597,6C605,2C605,2C637,3C653,4C669,1C605,5X1213,8C1414,3C694,7C678,7C510,5C726,5C485,END","20C3272,4C886,16X3605,1C2853,25C4957,8C3197,9C4605,7C1117,11C1765,6C1013,19C1837,8C1822,13C3861,3C885,18C1701,5C997,14C2453,2C917,21C1253,2C1165,END","14C3504,5C990,11C1590,2C869,18C2372,2X1532,20C1837,7C997,9C1549,8C1405,16X5053,1C2085,9C1813,5C862,25X2374,8X4334,15C2733,1C2638,19X4510,6C1774,22C3005,6C1005,24C3877,6C1989,10C1565,4C973,23C2445,3C901,21C1021,3C765,26C1933,7C1125,12X2350,2C3454,26C1782,7C1022,17C1461,4C989,13X3053,3C1021,END",,,,,,,,,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-18 16:08:54,2019-11-18 16:24:37,0,145.18.159.82,100,943,1,2019-11-18 16:24:38,R_1odQ0xD2J4lnLkC,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,65,20,23,1,5,1,4,3,2,5,2,2,4,1,5,4,1,6,5,1,5,4,1,3,4,1,4,5,2,2,3,1,5,6,6,1,1,1,2,6,7,2,5,1,3,4,4,2,2,1,2,4,4,4,4,4,2,5,2,1,2,3,2,4,5,4,2,1,2,1,1,4,1,1,2,1,1,1,1,1,1,1,1,1,1,3,6,6,5,5,6,2,3,4,3,4,4,5,6,1,1,5,6,5,4,5,5,5,4,2,6,5,6,5,"15C11015,10C1621,26C2933,17C1237,9C1998,20C1190,19C1214,22C1557,12C1093,11C1629,23C1765,13C1348,24C1973,10C2781,25C1357,14C1837,16C1237,18C1397,21C1845,25C1189,END","7C1432,7C780,6C796,1C893,7C733,4C1062,8C805,1C1150,2C670,2C622,6C702,4C686,2C725,3C781,4C661,3C661,5C837,6C1293,8C940,5C1453,END","15C4104,8C2965,19C2422,7C1198,13C1782,4C982,24C2389,3C1028,16C1548,6C1869,23C1941,7C1061,20C1317,1C885,22C1421,5C1862,17C1357,2C1285,12C966,3C1110,END","18C1592,8C1437,13C1061,1C837,15X3885,3C1038,19C1414,7C861,9C1229,4C805,26C1069,8C885,14C1165,7C829,13C989,6C1062,23C1677,2C701,25C1013,5C805,24C2285,4C1213,22C1461,7C781,10C1133,5C829,19C1278,8C822,17C1046,4C766,20C1302,2C870,16C1245,1C757,11C1463,3C645,12C789,3C653,21C957,6C790,END","5C872,4C726,3C1181,5C653,1C773,1C2301,2C676,8C853,5X3349,1C917,3C861,6C741,7X2717,7C773,6C717,5C677,8C717,7C638,6C613,4C766,2C678,5C1054,1C998,4C974,6C726,2C966,8C1061,1C1565,6C756,3C1156,8C1005,7C973,4C877,3C1413,3C677,4C613,2C573,8X1461,7C606,2C685,END","21C1399,4C974,10C1582,6C805,14C1405,5C909,9X1765,3C1157,12C1541,3C813,17C1157,8C950,25C1006,5C1022,19C1237,2C1093,23C2437,1C845,20C973,7C717,END","26C1287,4C1141,17C1149,2C741,24C1213,2C957,18C941,5C693,9C1077,4C981,16C1477,1C789,23C1957,8C1486,14C1446,1C1294,10C1407,6C1165,25C965,6C1069,21C1005,5C900,20C2140,3C1037,12C1461,7C1093,13C1021,7C1013,11X2973,1C1101,19C1469,8C877,22C1246,3C1238,21C1262,4C1086,11C1446,5C942,15X2246,7C1021,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,Velen beweren dat het veel voordelen kan hebben.,1,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-19 11:13:38,2019-11-19 11:33:51,0,145.18.159.82,100,1213,1,2019-11-19 11:33:52,R_2rnYd7LdecB0RDB,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,66,20,2,2,2,1,2,4,2,5,2,2,5,2,3,5,3,6,5,2,4,5,3,4,5,2,6,6,5,5,4,3,6,3,3,5,3,2,2,6,4,4,3,3,4,5,4,2,2,2,2,5,4,3,5,4,2,2,3,1,1,4,2,4,5,5,5,2,4,1,2,2,3,1,2,4,2,2,2,5,5,4,2,5,1,3,6,6,5,5,6,4,4,4,5,4,2,6,3,1,1,4,4,4,4,3,6,5,6,3,3,6,6,4,"22C14655,21X5330,23X5451,13X1690,14X3253,26X2341,20X8259,11C1873,12X1730,10C1800,24C2749,11C1947,17C1770,9C1582,20C1211,16C3087,19C1976,25C2461,15X2645,18C2072,END","3C1367,4C890,3C660,6C687,5C688,1C682,2C659,5C614,6C586,1C504,4C457,3C516,6C588,2C642,8C526,7C614,4C649,7C644,7C656,8C676,END","18C3607,5C1875,11C1644,4C1119,9C1031,6C698,22C1804,7C1609,16C1957,1C731,13C857,8C1045,24C2159,2C911,26C1190,8C3819,10C1101,3C670,23C1784,2C676,END","17C1144,4C735,24C1912,8C1222,18C1796,7C551,10C751,2C533,14C1292,3C517,22C1302,2C695,15X2630,5C785,20C1136,6C695,12C887,3C673,25C1259,2C620,19X1281,1C642,11C1319,4C702,16X1647,8C1009,21X1670,7C1711,13C942,8C718,16C1734,6C605,25C914,1C602,26C1599,6C947,23C1562,3C568,9C887,5C656,END","1C1312,3C744,1C495,3C473,4C636,6C551,8C533,2C645,5C505,7C578,2C655,7X636,6C765,4C644,7C568,4X990,6C627,5C798,5X867,6C647,8C658,5C685,1C592,7C717,6C626,8C698,4C554,4C538,3C602,1C575,3C565,2C683,5C533,8C534,7C805,2C675,2C670,3C696,1C761,8X1039,END","20C1960,3C1340,24C1411,5C871,21C978,8C976,22C1222,6C667,11C1132,7C1692,10C989,2C755,16C1123,1C715,17C1107,6C631,23C1048,4C1535,13C1419,3C711,END","13C983,3C624,17C949,5X868,23C1159,8C772,15C1052,1C559,26C942,6C717,11X1141,3C724,21C838,7C521,14C969,2C528,12X1767,3C838,20C850,2C1092,22X1302,7C966,16C1316,1C574,22X2675,5C775,10C1268,6C695,18C1214,8C923,24C1444,2C662,25C1154,4C593,19X1325,4C558,9C750,6C925,11X1565,8C740,END",,,,,,,,,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen beweren dat het veel voordelen kan hebben.,1,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-19 12:08:33,2019-11-19 12:26:00,0,145.18.159.82,100,1047,1,2019-11-19 12:26:01,R_31AwAfUErVtDl7u,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,67,20,1,2,2,1,2,2,2,2,2,2,4,5,4,5,4,4,4,3,3,5,4,3,4,3,4,4,5,3,4,4,3,4,5,4,3,2,3,4,5,3,3,2,3,4,3,3,2,2,3,3,4,3,4,3,4,3,3,4,2,3,3,2,4,3,3,2,3,2,3,2,3,2,2,3,3,2,3,5,4,2,1,2,1,6,6,6,4,5,6,4,3,4,5,4,5,6,5,4,2,4,6,4,5,4,2,4,4,4,4,3,6,5,"24C1623,10X2213,26C989,11X2485,22X2605,13C1069,12C1349,21C653,24X2294,19C974,16X1942,13C1078,23C1286,20X1918,9C1029,25X1533,18C1205,14C1693,15C1245,17X1853,END","4C951,7C645,2C718,8C694,6C790,1C533,7C653,4C493,1C573,6C549,7X973,5C877,3C645,2C541,6C653,3C621,2C589,4C702,8C701,5C502,END","20C2000,2C870,19X2237,6C869,11C1245,1C845,16X2125,7C789,24X4133,5C1253,12C1173,8C1005,13C1253,7C781,10X2157,4C845,21C1613,3C2269,26C1758,4C1726,END","23C2104,7C1068,14C2188,3C637,10C1445,2C669,25C1189,7C917,13C933,6C1045,26X1461,4C605,11C1045,4C757,19C845,1C709,12C1038,2C702,21C678,8C574,9C694,6C694,22X1261,5C925,21C965,5C805,18C869,1C557,15C1141,4C637,20C814,3C550,16X1614,8X950,17X1550,7C750,24X797,1C869,15X1293,6C1117,END","4X1511,8C845,8C590,2C661,6C685,6C637,3C661,7C717,3C478,3C558,3C558,5C774,4C590,1C614,5C630,4C630,2X1062,1C702,2C550,1C718,5X1086,8C637,6C564,7C820,3C660,6C1077,7C725,4X773,7C1221,4C749,2C1061,5C877,1C773,8C1413,6C973,8C837,7C813,5C677,1C694,2C734,END","16X2432,6C2037,24X2053,3C949,26C1830,5C1526,12X1470,2X3158,21C1741,4C845,13X1485,8C989,11C909,3X1261,20C1021,6X1269,25X1429,1C861,10X1461,7X981,END","24X1480,5C878,17X1374,1X1254,10X1390,6C893,16C821,3C797,21C1237,8C837,20X1212,2C685,9C701,1C717,26C717,2C629,14X1477,8C685,22X1229,2C573,19C653,5X1117,23C613,7X965,13C718,7C534,15C758,3X926,26C941,1C629,11X1229,6C734,17X1725,7C613,25X1349,4C869,18C749,5X829,12C758,4X1014,END",,,,,,,,,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-19 15:04:04,2019-11-19 15:27:58,0,145.18.159.82,100,1433,1,2019-11-19 15:27:58,R_2TAvwBQSBDOKUPP,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,68,20,3,2,2,1,1,3,2,4,2,2,4,3,4,5,2,5,6,3,4,6,4,4,6,2,4,5,6,4,5,5,5,5,5,3,4,3,5,5,5,3,3,3,3,4,4,4,2,3,2,3,4,3,4,4,2,2,3,2,2,4,4,4,4,5,2,3,4,3,2,4,4,1,2,1,1,1,2,2,1,2,4,5,2,2,5,6,6,6,6,3,2,3,4,4,4,6,2,2,2,4,6,4,4,4,5,4,3,4,5,3,5,6,,,,,,,,,,,,,,,,,,,,,,"17X7415,10C1149,12X3941,21C1845,18C1613,25X4485,9C1678,24C1246,15C1405,25C1253,11C1917,26C1709,14C2029,20C1365,15C2877,22C2213,19X2005,23C3133,16C1341,13C1293,END","5C2056,1C822,8C1422,4C822,5C806,6C1813,8C1310,1C654,2C677,6C845,3C1645,1C2452,2C637,7C861,5C693,3C725,2C1205,7C645,6C589,4C653,END","22C2289,3C1781,20C1430,6C918,26C3365,1C1677,24C2813,7C717,17C1277,8C1276,11C4453,4C733,14C2837,1C1061,21X2261,2C869,9C1397,7C893,13C3486,5C638,END","13C1584,6C685,19C2285,1C732,15C1469,7C605,17C3541,2C701,17C1485,3C766,26C2245,7C709,24C4461,1C630,14C1861,8C693,20C2677,7C573,25X5213,4C661,11C1670,8C3477,20C1757,2C557,22C1413,5C653,18C1188,1C516,10C1285,5C733,12C1805,8C2213,21X2005,4C629,9C1885,3C589,23C5037,6C1030,16X2334,2C1702,END","3C1351,4C1285,7C2373,2C1485,2C573,8C685,3C1053,1C773,1C638,3C717,5C829,5C517,8C629,4C893,2C653,7C717,4C973,3C749,6C725,7C733,1C885,2C645,8C1157,6C1798,4C654,5C686,8C2070,1C526,6C1486,7C734,7C542,6C1357,4C596,2C676,3C628,1C572,8X1005,5C2340,5C469,6C653,END","19C1896,3C1213,18C1621,6C1085,23C3428,2C821,16C2461,4C981,15C1597,1C525,20C1317,2C629,12C1613,7C5117,10C2541,8X1461,21C2349,6C1381,17C1133,5C1094,END","15C1720,1C1365,24C836,2C852,14C2644,7C765,18C1165,6C2398,24C1485,4C837,13C5133,6C1829,25C2598,1C2205,21C1453,3C685,23X2029,7C973,16C7533,5C862,10C2398,8C3038,22C1356,1C644,19C1172,2C501,11C2045,5C693,20C1213,8C685,12C2325,3C789,9C1501,4C645,17C917,5C637,17C1045,3C566,26C950,6C1183,END",Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-20 10:04:53,2019-11-20 10:26:19,0,145.18.159.82,100,1285,1,2019-11-20 10:26:19,R_2qq0JKLS35aDla3,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,69,20,7,2,5,1,3,2,2,5,2,2,3,4,6,6,2,6,5,3,5,6,5,4,4,3,6,2,6,3,5,6,3,5,5,6,4,2,6,7,4,6,3,2,5,5,5,2,2,1,1,5,5,4,4,4,4,5,2,1,5,3,2,4,4,2,3,2,4,1,4,2,1,1,3,3,5,1,4,4,5,5,2,5,1,3,6,6,6,6,6,2,5,5,6,2,5,6,6,1,1,6,6,6,5,4,2,5,4,6,6,5,5,1,,,,,,,,,,,,,,,"9X22351,17C3885,26C1173,24C1227,22C1433,25C1321,15C1376,13C853,14C1545,10C1214,16C1675,20C1109,12C1460,11C1279,23C1632,14C859,18C1575,19C885,21C853,19C1129,END","8C2200,4C672,6C754,1C632,8C603,1C673,3C1587,5C719,2C600,7C652,1C560,8C1030,6C634,3C597,7C627,4C671,5C658,5C716,2X2539,3C955,END","18C1416,1C1342,12C2075,8C980,23C2538,2C752,24C2063,3C1737,15C1487,4C848,9C1073,5C883,21C815,8X7746,10C2316,7C1220,16C2368,6C1020,20X1297,2C753,END","16C2880,4C1012,24C1055,6C842,19C781,4C746,15C1546,5C1231,18C2419,8C887,19C632,3C656,22C855,6X1185,11X1199,1C914,23C1435,2X1383,12C1323,8C964,10C1090,7C699,13C1012,3C713,14C977,5C742,26X1238,5X1562,25C1479,2C928,10C1072,7C747,9C2081,1C781,21C849,1C884,17C1110,8C790,20C980,3C632,END","6C1455,7C763,7C554,5C674,4C651,7C687,3C624,2C604,1C505,6C578,4C767,6C485,1C583,1C597,4C618,6C511,3C519,5C1280,8C1033,8C621,2C521,7C666,3C2690,4X1940,2C650,8C693,8X918,1C606,5C891,6C724,5C565,2C579,3C608,3C527,5X990,2C515,7C635,8C735,1C519,4C704,END","19C2567,4C1440,10C2371,8X2335,26X2854,3C1534,15C3429,7C1280,9C3353,7C1367,16X1860,5C1566,22C1939,1C963,13C1096,6C921,20C1578,2C798,21X1692,3C758,END","22C1760,4C968,16C1828,5X1318,11C1991,1C748,21X1345,7C2569,10C1365,3C803,18C1600,4C2564,13C1313,1C785,20C1496,2C888,12C1298,7C1346,26C1937,1C1417,15C1147,8X1508,14C4403,6C1125,17C1501,6C909,23C2967,3C754,24C1674,4C739,25C1787,8C871,17C1120,7C2137,9C1517,8X1182,19C2003,2C815,25C11348,5C1013,END",,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-20 11:17:32,2019-11-20 11:41:44,0,145.18.159.82,100,1452,1,2019-11-20 11:41:44,R_1IHtpeReUGUgD0W,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,70,20,1,2,2,1,2,2,2,3,5,1,2,1,5,4,1,5,4,1,4,1,2,5,3,1,5,4,6,6,3,2,4,5,6,5,7,3,5,2,6,7,3,1,5,5,4,2,1,2,2,5,5,4,5,2,4,5,2,1,5,3,4,5,5,2,3,4,2,1,5,2,1,1,3,2,1,1,4,5,5,5,1,1,3,3,6,6,6,5,6,2,3,3,3,3,4,6,6,4,1,3,4,5,4,5,3,5,1,4,7,4,5,6,,,,,,,,"20C7295,17C4829,24C2854,12C1910,11C1301,26C1293,25C3207,18C4933,9C1021,21C1477,22C1165,14X4797,15C1693,16C4213,23C2237,10C1917,13C1133,19C2269,17C2621,18C2046,END","2C1943,5C1053,4C1094,2C1341,6C1005,6C941,1C989,5C901,3C813,4C2606,3C3549,4C741,7C861,1C797,7C1149,6C1045,5C709,1C629,8C1021,8C789,END","19C3920,8C2678,14C5165,2C1292,11C3293,5C1877,12C2109,1C1109,23C2021,3C1005,20C1773,4C1062,16C2366,7C1302,21C2942,6C1439,13C1997,8C3965,18C2542,3C1374,END","23C4015,6C1197,18C2805,6C1109,9C1437,2C1029,16X2493,8C2117,24C3541,1C1198,15C2150,3C1069,11C2605,3C1213,13C1461,1C1037,26C2286,8C1229,21C1261,4C1253,10C1654,5C1341,10C3205,3C1093,25C2157,2C1342,12C1894,5C1686,19C1390,5C1773,22C2548,7C1188,17C1373,4C989,14C2205,2C949,22C3141,7C1005,20C3421,7C854,END","6C3872,4C1742,7C2325,2C1125,8C956,6C716,5C692,8C789,7C710,4C877,6C749,6C853,2C637,5C911,1C797,5C733,1C717,2C645,6C645,3C741,8C781,3C597,4C806,2C846,3C1046,5C765,3C813,7C1045,4C741,7C1189,4C805,5C1125,7X1581,1C1157,1C677,2C438,8X3038,8C1262,3C885,1C1621,END","15C4263,7C1141,19C2653,2C2021,21C3221,4C1549,11C1389,4C846,16X5856,5C1501,13C2837,6C973,10C1206,1C750,22C1301,3C997,20C3637,6C1197,26C2461,8C2317,END","9C2584,8C1325,11C2405,1C1045,24C1893,5C813,25C2709,6C709,17C1638,3C654,21C1045,6C822,9C1661,7C869,16C2917,3C1333,10C1005,2C581,25C1374,1C1014,15C3983,1C869,23C2117,2C1101,19C2509,8C869,22C1094,8C694,20C1445,5C837,18C2101,5C653,12C2205,7C861,14C1797,4C1077,26C3637,4C1077,13C1637,3C957,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-20 12:22:30,2019-11-20 12:43:34,0,145.18.159.82,100,1263,1,2019-11-20 12:43:34,R_10ZYmRcJxBIw9zw,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,71,20,2,2,2,1,2,3,2,2,2,1,3,4,6,6,5,5,4,4,4,6,5,5,5,5,6,4,6,6,5,4,5,5,6,2,3,2,3,4,4,3,5,4,2,4,3,4,3,3,3,3,4,2,4,2,4,4,3,1,2,2,2,2,4,4,4,2,4,1,3,2,2,3,4,4,4,4,4,4,4,3,2,1,2,3,5,6,5,5,6,4,2,4,5,5,4,6,4,2,2,4,5,3,3,3,4,5,4,5,2,2,4,5,,,,,,,,,,,,,,,"16C2815,20C2693,13C1453,12C1045,15C1109,11C997,10C917,22X3861,12C933,26C1437,25X2869,18C1269,24C1517,9C1054,19C822,18C1366,17C1094,21C854,14C1110,23C965,END","3C1063,2C621,3C605,4C605,7C485,1C629,7C461,8C509,8C461,8C469,5C862,2C541,5C653,6C517,4X1148,6C629,3C669,1X1069,1C573,6C605,END","22C1047,8C869,24C1117,3C677,16X1757,6C1069,20C965,7C661,12C621,4C581,11C653,1C565,26C853,8C598,15C1142,2C590,23C1222,5C502,10C934,2C590,END","25C1192,2C573,19C678,1C598,10C942,4C598,23C934,5C590,11C790,1C646,17C958,8C646,16C1286,2C590,23C1212,6C636,26C805,6C572,18C701,7C613,12C621,7C613,15C797,3C589,13C701,1C533,9C877,6C525,21C685,2C701,14C845,4C541,16C1021,5X1133,22X1950,8C710,24C1374,7C638,20C814,3C734,END","8C871,7C589,4C549,3C613,1C509,2C509,1C517,5C493,4C597,7C789,5C645,5C557,2C453,3X917,8C629,4C685,6C621,8C670,2C406,6C565,3X693,7C781,4C613,8C533,2C485,4X709,1C669,7C557,3C677,6C789,8C621,6C677,5C589,3C565,1C605,5C670,6C582,1C526,7X774,2C478,END","24C2160,6C1101,23C1541,8C837,17C1093,2C925,11C925,1C1405,26C1885,4C885,20X1445,3C734,13C1262,6C814,14C1118,7X1190,16C965,4C717,22C1318,5C949,END","20C832,4C846,18C1094,2C630,13C1214,7C798,15C886,5C814,25C838,5C781,12X1052,7C708,25C1004,7C780,14C933,6C749,9C941,8C1165,24C1005,3C685,26C917,1C557,22C1141,6C21,10C2021,2C717,16C917,4C654,17C1038,3C654,17C942,4C534,23C1310,1C646,11C958,1C766,21C742,6C669,19C1140,8C756,END",,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-21 09:01:40,2019-11-21 09:35:36,0,145.18.159.82,100,2036,1,2019-11-21 09:35:37,R_3DwDFnbaNwpTwam,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,72,20,5,2,2,1,4,1,2,4,2,4,3,4,3,5,3,2,4,2,3,5,4,3,4,4,3,3,5,2,5,2,3,5,5,2,3,2,5,4,6,4,3,4,4,3,4,4,2,2,2,4,4,4,4,2,2,4,1,2,4,3,2,4,4,4,4,2,2,2,3,2,2,1,2,1,2,2,2,3,2,2,3,1,1,5,5,5,5,5,5,4,4,4,5,3,4,5,4,3,2,4,5,4,4,4,3,4,3,2,5,2,4,4,,,,,,,,,,,,,,,"23C2855,10C2970,16C1965,20C1978,16C1719,17C2111,12X8423,14X5230,13C5358,11C1657,19C1204,18C1560,22C1813,9C1353,26C1176,21C1677,25C1311,20C1246,24C2777,15C1631,END","5C1240,7C686,6C712,6C728,4C822,2C708,3C605,3C1121,2C570,1C647,5C721,1C1418,7C670,8C648,1C618,4C679,4C527,7C728,8C1144,6C1079,END","13C3639,8C2932,18C2170,7C1376,20C3085,6C845,14X3560,4C4941,22C1178,8C855,25C1208,1C983,17C1364,3C922,11C1474,4C764,16C2185,5C2438,26C945,2C871,END","21C1375,8C822,9C1067,6C764,20X1946,4C897,26C1219,5C815,23C2211,5C1222,17C2836,5C741,19C1102,3C733,12X1509,1C791,16C1716,2C627,13C1320,1C760,24C2165,8C691,15C1292,7C605,23X3354,2X910,18C1750,7C637,10C1226,6C821,22C1785,3C709,25C1191,6X1467,14C2909,2C909,12C1374,4C963,11C3005,3C860,END","7C1520,4C719,8C680,7C801,6C670,8C601,5C596,4C660,2C597,1C594,6C646,5C707,3C1021,2C760,4C670,6C649,6C588,8C658,3C644,4C735,6C655,4C922,3C674,2C587,8C737,7C625,7C557,3X1356,5C978,5C614,1C707,2C677,3C727,1C775,1C533,7C780,5C610,1C614,8C788,2C577,END","25C5767,2C3172,20C3074,5C1466,11C1565,8C1001,13C1479,7C872,18C1161,4C1095,14C3184,3X1309,22C1229,1X1336,19C1561,6C877,16C1471,6C938,15C1273,3C666,END","16C1503,2C858,9C1046,6C784,11C1461,5C1256,12C1019,7C1015,26C1163,7C841,13C1229,8C840,23C1572,8C1041,14C1014,3C847,25C1067,6C886,17C1447,4C705,21C1627,1C989,22X1355,2C1004,26C1605,3C657,15C1180,8C713,13C1161,1C703,20C1297,7C697,10C1211,3C839,24C2339,5C1289,19C1035,4C933,18C2637,2C736,END",,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-21 12:02:45,2019-11-21 12:27:01,0,145.18.159.82,100,1455,1,2019-11-21 12:27:02,R_1qUNn4AOvhj6Uxw,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,73,20,4,2,4,1,3,3,2,3,4,2,3,2,6,4,1,2,4,1,5,6,2,4,5,1,5,5,3,5,5,3,6,6,6,2,1,1,3,6,6,2,4,5,2,4,3,2,5,2,3,4,2,4,4,4,2,4,2,2,1,2,1,5,2,4,4,2,1,2,2,2,2,1,1,1,1,1,1,3,1,1,2,1,1,7,6,6,5,5,6,4,5,4,5,3,3,4,3,4,2,5,5,2,2,2,3,3,4,4,6,1,6,2,,,,,,,,"13X7600,26C2238,23C1749,16C2117,26C1885,20C1365,25C1765,24X2077,19X2285,21C1477,14C1909,11X1933,9C1277,18C805,22X1742,17C2774,15X2174,13C1653,10C1349,12C1141,END","7C2328,4C933,1C775,6C829,4C709,5C605,3C653,7C516,1C549,2C525,2C485,5C573,6C741,1C589,4C645,3C549,8C693,8C485,7C589,5X957,END","26C1687,4C957,19C1365,3C1573,13C1101,6X1669,15X1693,3C909,11C1237,7X1213,24C1254,8C758,25C1582,1C926,9C1198,2C687,14C1981,6X1341,21X2773,5C1309,END","10C1263,7C1484,19C1133,7X1421,11C1069,7C1005,15X1589,6C1365,24C1725,2C1109,19X1285,3C1981,21C1294,4C718,14C1174,6X1350,16C1446,6C1309,17C1253,8C1029,26C877,5C1085,18C2428,2C853,23C1237,1C581,25C1086,4C573,20X1381,5C765,9C1061,1C1133,12X1493,2C1605,13C1486,8C2397,22C1221,3C1453,9X2925,4X941,END","5C831,7C565,3C582,5C613,8C645,7C557,1C629,4C677,6C637,2C637,4X853,2C549,6X957,3C637,2C557,5C589,1C445,7X613,7C541,8X1062,2C438,4C1046,1C639,1C478,6C550,5C630,6C550,1X806,4C774,8C622,8C469,7C645,2C612,3C1092,3C516,5C741,4C709,3C485,6C669,8X981,END","16C1272,8C1526,19X2885,6C2420,18X2052,2C1013,12C1173,4C925,23C1245,5C933,17X2133,3C869,21C1029,6C1101,13C1525,1C1118,20C1423,7C781,14C1573,3C909,END","19C1015,2C645,9X1205,5X1061,23C1773,2C790,25C1046,8X1198,18X2814,1C1078,17C1461,7C877,22C1197,1C796,24C1276,4C717,16C1181,2C821,10C1045,6C829,21C733,1C661,12C981,8C837,20X1621,4C1461,11C1021,3C574,14X1270,6C902,15X1782,7X1038,17C1366,6C782,19C2333,5X1381,26X1476,3C1439,13C878,8C886,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-21 12:58:13,2019-11-21 13:16:41,0,145.18.159.82,100,1108,1,2019-11-21 13:16:42,R_3dWt4x6lu6RS6yJ,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,74,20,46,1,5,2,4,4,2,4,2,3,4,2,6,6,5,5,4,3,4,5,5,4,4,3,4,3,3,2,3,5,5,5,3,3,3,3,2,6,4,2,3,4,2,5,3,3,3,2,2,4,3,2,4,4,1,4,3,2,2,4,1,3,4,4,1,1,3,1,1,4,2,1,1,1,1,1,1,3,1,1,1,1,1,4,4,4,3,5,6,2,5,4,4,4,4,3,3,1,1,5,4,6,6,6,6,5,3,4,5,2,3,4,,,,,,,,,,,,,,,,,,,,,,"22X9943,10X9317,14X7973,16C6926,9X3709,21X5133,10C2381,19C2069,25C5333,20C1813,17X2405,12C1461,26C1654,20X3990,24C4741,23C1701,13C2124,11C1205,18C5325,15C1269,END","3C2313,8C1037,5C1301,5C1037,7C797,3C1005,8C1653,7C1869,6C733,2C718,7C790,4C798,4C766,1C758,1C573,1C573,5C757,2C701,6C957,2C709,END","17C2992,5X3045,11C1710,6C1702,14C3045,3C1125,25X2877,7C1237,21C1397,3C1101,12C2488,1C1182,13C1494,8C1142,18C2198,6C853,19C2068,4C1028,22X1716,2C1125,END","14X2056,4C1365,11C1829,7C1894,9C1142,2C822,22C1238,8C1278,19C2566,3C941,18C1812,5C1165,10C2500,7X1805,20C2509,6C1605,19C3205,5C1061,13C1581,6X1374,21C1950,3C974,17C1790,4C2013,23C1629,6C1253,10C1373,1C1126,24C1573,1C1149,12C1933,4C1389,16X2517,8C1213,15C1421,5C1349,26C1454,1C1118,25X3798,2C1373,END","6C2296,7C837,5C765,7C677,4C1005,4C629,4C565,1C837,3C877,4C813,8C853,8C693,3C997,3C693,7C934,8C886,5C1334,2C862,6C830,1C878,3C813,2C685,2C621,2C637,1C781,2C661,6C813,5C765,5C677,8C789,1C725,1C670,5C869,6C1197,6C613,8C725,4C797,7C901,7C1077,3C853,END","12C1608,5C894,19C1878,6C1062,24C3565,3C1181,23C1525,2C973,16X2277,2C1861,10C1149,8C997,21C1197,7C1109,11C1909,1C821,22C2333,7C798,13C1270,4C1006,END","14C1832,4C877,13C1069,5C757,9C1421,5C1230,21X2565,1C789,15C1173,1C1477,10C1341,3C1821,26C1181,8C829,20C1861,2C1078,12C1558,6C886,22C2726,4C845,11C2109,4C877,19C853,2C901,18C1613,7C717,25C2453,7C1333,17C1477,3C1679,16C1757,3C1157,23C1597,6C758,21X1565,7C861,11C1205,5C1269,24C2205,8C813,END",Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-21 14:10:13,2019-11-21 14:33:25,0,145.18.159.82,100,1391,1,2019-11-21 14:33:25,R_3hsY9eL6TcmpDl3,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,75,20,2,2,2,1,2,3,2,5,2,2,3,2,3,5,1,3,2,2,2,6,3,3,5,2,3,5,5,5,4,1,4,5,5,2,2,2,2,4,4,2,4,3,4,4,4,3,2,2,2,5,5,4,5,3,2,4,2,1,2,4,2,4,5,4,3,2,2,1,2,4,1,1,1,1,1,1,1,2,2,1,1,1,1,3,5,6,6,5,6,3,2,1,3,5,5,6,5,1,1,3,5,6,5,5,4,5,2,4,4,3,5,4,,,,,,,,"16C2415,21C2309,12C1357,20C1525,18C1182,23C2622,24X7358,22X5412,10C5445,15X3837,19C2869,26C1414,11C1278,9C1134,25C1782,17C3006,14C1230,20C1485,13C2148,9C1196,END","8C1551,5C1181,7C901,2C797,7C901,6C869,3C837,4C965,1C1477,4C773,6C773,2C853,6C917,2C1142,1C726,3C870,4C966,5C1102,8C678,7C622,END","11C3095,2C1285,13C1477,5C1109,14C1621,2C1373,18C1653,8C1973,17C1086,7C1077,21C1910,3C1798,25C1502,8C1198,20C1182,1C1340,23C3661,4C1045,16C1636,6C885,END","25C2240,1C902,18C1414,7X2197,16C3925,8C1148,24X4717,3C1085,26C4101,5C2029,17C1589,3C1261,20C2870,3C2518,10C1429,6C2261,11C2736,5C1389,15C2222,4C933,12C1309,1C1501,13C1637,2C2309,13C1221,7C949,19C1597,4C1621,22C5014,8C1021,9C1157,2C893,21C1621,6C1149,25C2957,2C877,14C957,5C749,23C1341,7C853,END","7C1168,6C733,2C613,6C733,4C813,2C909,7C701,7C630,1C685,3C861,5C1741,5C654,5C558,3C646,1C654,8C638,6C597,8X2293,1C701,4C861,8C589,6C621,5C621,2C661,2C589,1C757,5C670,2C685,3C685,4C653,6C741,8C717,1C693,3C941,3C645,8C1717,4C885,7C669,7C693,4X1525,END","21C1872,7C781,17C1469,5C1557,18C1869,6C1285,10C1309,2C973,22C4325,8C949,15C1197,1C1015,12C1765,1C828,24C1172,4C917,23C2709,7C949,11C1237,3C885,END","10C2600,5C973,15C5341,2C878,13C1694,8C1125,14C1366,8C757,18C2908,1C868,9C7965,6C893,21C2373,3C853,12C2085,1C654,22C1222,5C1310,25C1070,4C3063,24C1677,1C789,26C1261,3C1173,17C1077,3C702,17C870,7C662,23C2974,4C774,26C1982,8C917,16C1628,6C1021,19C1804,7C1052,20C2404,2C709,11C989,6C709,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-21 15:46:22,2019-11-21 16:11:57,0,145.18.159.82,100,1535,1,2019-11-21 16:11:57,R_Om9fnKdS19HxOo1,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,76,20,7,2,2,1,3,2,3,5,3,2,2,5,6,6,2,4,4,2,6,6,6,4,6,5,5,1,6,6,6,2,6,1,5,7,7,7,7,3,3,1,1,5,2,5,5,5,1,1,5,5,5,5,5,3,4,5,3,2,5,4,4,1,5,5,1,1,2,1,4,4,3,3,1,1,1,1,1,5,5,5,1,1,1,9,6,6,6,6,6,5,6,3,3,5,4,2,6,1,1,4,4,4,1,1,6,6,2,7,3,6,7,6,,,,,,,,"20C12087,18C1429,19X6677,15X3118,11X10868,12X1525,14C2053,9X3262,17X3390,26X3181,25C5493,22X2285,23X8893,13C3181,16C2142,10C2126,19C2014,21C4541,13C1880,24C7524,END","5C2616,8C829,7C645,2C597,2C550,1C758,2C542,6C694,4C694,6C926,3C645,1C749,5C645,4C709,4C933,7C597,5C709,3C661,6C653,8X1805,END","26X2975,6C2957,21X2445,1C1293,10C981,7X1382,11X5366,2C941,12X1757,4C1109,16C1365,5X1477,20C1373,7C981,23X2325,3C1029,14C973,3C669,24X1733,8C933,END","25X2336,7C1038,10X1646,2C757,19X1941,8C933,11C1053,5C893,20C1261,7C717,17X1903,5C885,14C933,1C741,13X1709,6C581,9C965,6C669,26C1077,8C901,22C1061,4X1301,15X1765,6C686,12X1661,4C917,18X1661,8C693,15X1917,1C949,16C1021,2C845,23X2038,2C790,24X1862,4C1245,21X1973,3C1373,24C2093,3C869,END","5X2895,8C781,2C853,1C589,5C757,3C629,7C861,4C693,7C781,1C653,7C909,4C1088,5C638,6X1093,3C725,1C677,3C653,5C613,6X2381,8X1469,2C933,4C797,7C597,2C733,1C1022,3C630,7C582,8C758,5C614,4C542,4C533,8C629,1C765,6C621,2C733,3C541,6C597,6C557,2C485,8C877,END","24C1079,4C2693,23C837,8C1973,10C853,1X2157,18C789,5C1005,17C806,4C1518,11X2014,2C1205,13X1245,7C1245,21X1261,6C781,19C949,7C1118,12C958,3C902,END","9X1752,6C981,15C813,8C709,23X1549,5C877,20X1405,1C812,14X1469,5C1069,11C653,4C901,18C797,3C653,21X1853,1C845,26C693,3C725,11X1261,1C805,19X2373,2C1126,12X2470,2C678,10C662,7C1366,26X2325,7X1989,24X3660,4C605,17X1381,6C1621,16C989,8C909,13X2509,8C887,25C1132,4C628,22X4149,5C1261,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-22 09:42:45,2019-11-22 10:29:33,0,145.18.159.82,100,2807,1,2019-11-22 10:29:33,R_2CEuTLmyRXjxoWW,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,77,20,6,2,5,1,2,3,2,5,2,2,2,4,5,6,1,4,5,2,3,6,5,6,4,3,5,6,6,5,4,2,5,3,3,2,2,2,4,4,7,2,5,2,4,4,3,2,1,2,1,3,5,4,4,3,2,3,2,1,2,4,3,4,3,4,3,4,3,1,2,2,1,1,3,2,1,1,3,2,1,2,1,1,2,4,6,6,6,6,6,6,5,4,4,5,5,6,6,1,1,4,6,4,4,5,2,4,3,2,4,5,5,2,,,,,,,,"11C11191,11C3041,22C3092,24C3347,26C1424,10C1613,14C1463,26C1456,16C1548,15C2466,12X8387,23C2139,21X7251,25C1577,13C2182,20C1163,18C3213,9C908,19C2014,17X3473,END","1C1312,6C900,3C1068,8C1079,2C767,3C759,4C925,7C742,5C1172,4C826,6C806,2C739,1C1547,8C808,2C1197,6C1985,7C719,4C719,5C1103,7C639,END","21C2719,1X2788,18C1344,4X1358,11C2977,6C953,22C1672,8C2106,15C2609,7C1668,24C2157,5C1085,10C1653,5C1863,19C1520,2C1113,13C1896,3C1168,12X2968,2C1547,END","15C1240,2C1160,26C1478,4C1447,18C1594,7C1343,25C1078,5C1303,14C3409,4C1068,20C1061,5C854,16C2026,1C1379,14C1329,1C1072,9C1228,3C856,17C1675,6C1260,11C1382,6C1130,22C1115,8C1131,10C2130,7C1129,23C2513,8C1616,20X2676,2C1948,13C2076,3C1061,21C1766,1C1092,19C1230,3C1105,12X1971,8C2823,24C3554,7C1031,END","3C1855,4C1180,1C737,5C736,5C837,6C772,8C705,5C1130,6C689,6C643,4C655,7C737,1C633,1C676,8C1023,2C723,6C1338,2C769,3C1359,4C742,7C772,1C1259,7C717,4C628,8C687,3C754,7C865,5C715,2C723,1C612,3C584,7C694,2C654,5C752,6C744,8C1016,2C660,4C951,8C815,3C634,END","9C1264,5C821,12C1810,3C1078,19C1247,8C1081,25C1115,2C755,18C1426,1C1116,23C1988,7C1056,16C1141,6C829,21C1747,4C1381,13C2026,2C943,15C1373,6C635,END","26C1071,5C1099,21C1347,6C946,18C857,8C653,10C1175,5C701,9C982,3C683,19C1430,1C696,14C1153,6C585,16C1718,3C1133,11C1165,7C596,13C1856,8C882,12C1411,7C719,15C2456,1C794,16C1183,2C667,25C942,6C671,20C1296,3C696,17C1417,1C735,23C1297,5C702,25C1447,4C712,22C1505,4C594,24C966,2C533,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-22 10:59:54,2019-11-22 13:46:08,0,145.18.159.82,100,9974,1,2019-11-22 13:46:08,R_3hGBzZaAL5ZL8xF,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,78,20,2,1,2,1,2,4,2,5,2,1,5,4,6,6,1,5,4,1,4,6,3,4,6,1,5,4,2,5,5,2,6,7,7,1,1,1,2,6,7,1,6,2,4,4,4,4,2,2,3,4,5,3,4,2,4,5,4,1,2,2,1,5,4,5,4,1,4,1,4,1,1,1,2,1,1,1,3,3,5,2,1,1,2,2,6,6,5,5,5,4,6,6,5,2,3,5,5,2,1,6,5,5,5,5,1,6,1,4,6,5,5,2,,,,,,,,,,,,,,,,,,,,,,"9C2207,25C1237,22C1437,10C1381,14C1493,20C1366,15C1710,11C1213,26C1341,23C2557,17X4477,18C2030,12C1086,24C2110,21C886,19C1013,13C1493,18C2117,13C1109,16C1405,END","1C1248,1C901,1C869,3C797,6C821,4C749,4C613,2C645,8C653,8C661,2C566,7C598,7C622,8X2807,3C837,2C741,5C781,5C685,7C741,6C701,END","11X4208,8C1213,18C2005,3C1212,12C965,2C965,20X3477,6C1277,16C1269,2C789,23X2501,7C1189,22C1045,4C909,14X2766,1C862,19C2238,5C1037,17C1405,5X2541,END","26C3361,4C1062,23X2885,7C1085,14X2357,1C973,17C1237,6C1061,25C1397,6C1549,20C1637,4C1885,12C1077,1C1029,11C1437,2C1213,24C2062,5C2006,13C2854,2C934,10C2845,6C933,23X2420,8X1373,16C3005,8C4581,9C1069,5C1405,19C5181,3C959,13C1573,3C1029,18X2317,4C885,15C1477,7C981,22C4645,1C1094,21C1654,5X1262,END","6C1503,5C1717,1C837,2C821,1C677,7C645,2C653,4C789,2C637,4C621,4C597,6C661,8X957,7C157,1X821,6X669,7C789,8C686,5C750,5C590,8C742,6C662,7C630,6C605,2C661,4X853,3C221,3C621,8X805,2X677,7C781,8C861,3C1237,5C807,1C854,3X982,5C958,4C798,1C766,3C653,END","14C1416,1C870,19C942,5C1006,11C1166,3C726,13C1294,6C854,17C2133,8C3172,26X4421,2C1765,25C3325,2X1429,24X1053,5C2358,16C2189,4C1485,18C1213,7C1213,END","11C2280,7C981,12C966,8C1326,20C942,4X1902,18C2981,2C2549,10C925,6X1116,14C3789,3C1189,22C2941,7C1557,19C717,5C669,24C685,6C773,17C1229,8C910,21C870,3X1118,15C2062,7C982,25C1774,5C3285,26X1510,2X2701,25C4486,1C1269,16X2893,3C1669,14X4893,5C2077,9C1325,4C981,13C1005,2C837,23C1541,1C1277,END",Velen beweren dat deze methode veel voordelen kan hebben.,1,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-22 14:17:31,2019-11-22 14:36:18,0,145.18.159.82,100,1126,1,2019-11-22 14:36:19,R_3pm1SJIwhGExjGO,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,79,20,5,2,2,1,1,1,2,5,2,1,2,2,5,3,1,4,2,1,3,5,2,2,2,1,3,3,5,2,3,1,4,6,6,2,2,1,2,5,5,2,4,1,4,4,4,2,2,1,2,4,4,3,4,2,3,3,2,2,4,4,2,3,4,2,4,2,2,1,4,3,3,1,1,2,1,1,3,1,1,1,1,1,1,1,6,6,6,6,6,1,2,2,2,4,5,6,6,1,2,5,6,6,6,5,4,6,4,4,3,3,4,3,,,,,,,,,,,,,,,"13C1760,14C1277,23C973,25C1069,10C926,14C1413,21C989,19X1685,24C1365,12C1229,26C1189,18C1117,15C1367,9C1181,11C1020,20C933,17C2069,16C1229,22C1141,23C1221,END","5C1944,3C926,2C1006,3C1150,4C877,6C813,1C829,8C900,4C716,4C685,6C621,1C701,1C541,7C669,2C653,5C781,7X1125,7C645,8C701,8C581,END","18C2729,7C837,13C1557,6C910,9C998,5C958,25C1054,2C894,12C886,1C822,11C1157,2C741,24C1053,4C796,20C836,6C932,10C877,3C869,23C981,8C797,END","16X2080,1C885,26C1021,6C790,19C918,5C782,13C830,5C622,23C1102,6C854,10C854,4C757,11C741,8C700,22X1252,2C909,18C877,5C942,25X1636,7C757,17C1173,2C1021,14C957,1C805,9C710,2C645,18C877,4C1037,17C893,3C741,15C1029,8C885,21C1101,7C765,20C1029,4C853,12C749,7C669,24C1045,3C677,END","3C1128,1C638,5C662,7C749,8C605,5C605,2C684,5C620,6C700,4C773,7C613,3C653,7C613,1C469,8C693,1X1133,3C629,6C933,6C1061,2C629,8C645,1X1013,1C637,6C765,5C926,4C1118,2C886,4C1022,4C606,2C614,2C518,3C702,8C750,6C671,4C829,7C781,7C757,8C1013,3C709,5C798,END","26C1559,2C1109,24C1133,3C685,11C1526,8C958,21C1469,1C1229,20C1525,5X1565,13C253,1C2077,18C1405,6C1053,16X4141,8C1629,9C1829,4C1157,15C1341,7C1845,END","12C1335,2C989,13C997,6C1413,16C1510,6C1173,17C1437,1X1277,10C1629,7C1437,22C1534,8C1206,19C2222,3C1181,18X1605,8C997,25C1525,4C1237,24C1509,5C894,14C1558,3C1101,23C1893,4X1461,15C2477,7C829,21C957,5C1125,20C1125,6C1086,12C1150,1C1285,9C4285,5C1189,26C1509,2C1013,21C1653,1C1038,11C1606,3C950,END",,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-22 15:05:05,2019-11-22 15:31:27,0,145.18.159.82,100,1581,1,2019-11-22 15:31:27,R_27EaodfjZFh7rnn,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,80,20,4,1,2,1,3,3,2,4,4,5,5,2,4,6,2,4,4,2,4,6,3,6,4,3,4,5,3,5,3,3,6,3,5,2,4,3,5,4,5,4,2,2,4,5,4,2,2,2,4,5,4,4,5,3,2,5,2,2,2,4,2,4,4,5,3,2,3,1,2,4,1,1,3,2,2,1,3,4,5,4,3,3,2,3,6,6,6,6,6,4,3,2,4,4,6,5,6,2,2,4,5,6,5,5,6,5,2,5,5,3,4,6,,,,,,,,"22C21983,15C4519,23C4110,10C1845,26C1431,12C2658,16C4126,24C2388,18C5033,26C1242,25X11091,21C2317,20C1325,13C1796,17C1401,9C1503,14C1799,19C2643,14C4486,11C1279,END","1C1407,1C1134,6C966,8C940,8C836,1C704,2C728,5C848,4C883,7C749,6C973,7C964,6C754,2C802,7C847,2C810,5C991,4C909,3C830,3C641,END","21C2232,8C2674,20C3970,6C2215,17C2930,2C3866,15C4795,7X8855,9C2136,1C1246,10C1513,5C1537,25X3777,4C1942,13C1956,8C1356,22C3251,1C1757,26C3180,3C2184,END","13C1807,7C1542,25C6614,8C2240,26C3052,7C1574,9C1940,5C1292,18C2019,4C1282,11C1339,8C1963,15C1288,3C1227,17C1573,6C1339,14C4435,5C1733,19C1438,5C1521,12X2633,6C5772,21C1088,2C1640,20C2717,4C1740,24C3308,2C1980,23C1664,1C1354,10C3122,2C1282,16C5874,3C972,22C3347,4C1032,24C1692,1C1262,17C1280,8C2378,END","7C1591,4C874,5C1426,5C1014,1C1075,8C1045,8C809,1C702,5C768,2C701,3C984,3C676,8C867,7C1057,7C717,6C1366,6C700,4C821,5C675,1C853,8C736,6C1951,2C717,3C1391,7C676,3C1262,1C848,1C724,2C701,6C662,7C711,5C681,2C651,3C879,6C752,4C760,4C606,4C604,8C705,2C618,END","13C3847,1C779,20C1353,7C1937,12C1136,5C839,18C1404,2C960,26C1399,3C931,17C1163,4C914,15C1035,8C1266,10C979,5C945,23C2625,6C2565,21C1098,3C924,END","15C7792,6C850,14C2129,4C1288,16C5523,4C919,23C1867,3C1450,22C1566,2C748,13C916,2C845,12C913,3C745,20C977,1C1151,19C1638,8C1274,24C1188,6C969,25C2007,5C819,26C808,7C668,17C903,7C1584,16C1820,3C817,10C837,8C1122,11C3633,7C892,18X3303,1C2431,21C810,5C919,24C1225,2C730,9C1041,5C1837,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-22 16:05:06,2019-11-22 16:23:59,0,145.18.159.82,100,1133,1,2019-11-22 16:24:00,R_3PblyUTqwpmzubX,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,81,20,5,2,4,1,3,3,4,3,2,2,4,3,6,6,2,4,5,3,4,6,5,4,4,3,4,5,6,3,6,1,6,5,5,6,2,2,2,6,6,2,5,2,4,5,4,2,4,2,2,4,5,3,5,3,4,4,4,1,2,2,2,2,5,4,4,2,4,2,3,3,4,1,3,4,3,1,4,3,1,1,1,3,1,6,6,6,6,5,6,2,4,4,4,5,6,6,6,1,1,3,4,2,1,4,5,3,5,3,6,4,2,6,,,,,,,,,,,,,,,,,,,,,,"20C3207,25C1525,11C1397,22X5797,14X6887,13X3797,14C2917,10C2070,23C2054,15C1958,26C1589,18C1709,20C1365,19C1068,16C1789,21X2045,24C1965,9C1301,12C1613,17C1677,END","5C2232,2C989,8C893,7C853,3C749,6C781,4C605,3C533,6C637,8X4973,7C1125,4C717,3C757,7C829,4C797,1C685,1C557,8X3205,2C861,5C765,END","25C2447,5C2277,14C2653,3C1037,18X1973,2C1197,19C3893,7C1798,22C1926,2C1230,23C2269,6C1429,13C2053,4C1085,12C2021,1C981,9C2101,8C1198,16C2645,6C1157,END","10C1776,4C885,24C2078,7C1038,16C1262,3C918,15C1446,8C1109,22X5333,5C1092,13C2173,1C1173,21C1853,5C1693,11C1581,6C1309,17C1765,6C1325,12C1485,8C1030,14C1590,2C1038,9C1454,4C822,25C1398,5X3205,20C1404,2C829,22C1605,3C702,18C1445,7X3909,26X3077,4C1165,15C2357,2C1078,19C1734,7C990,23C1758,1C1046,END","4C1320,6C1036,3C932,7C892,5C989,1C637,4X4445,3C941,5C829,8C1037,6C1069,2C829,4C1029,5C701,5C1230,2C774,1C814,7C806,4C750,2C678,2C654,3C597,5C725,4C597,2C805,8C629,1C525,3C437,3C453,1C429,7X917,8C783,6C534,6C518,7C558,1X4334,6C822,7C629,8C661,8C541,END","11C1647,5C1021,13C1589,2C957,24C1613,1C1037,19C1733,8C1086,9C1926,3C990,26C1734,7C837,20X1957,23C1573,7C1309,12C1309,6C1246,16C1405,4C1013,END","10C1559,8C1157,12C1189,2C1109,9C1205,8C933,14C1270,3C1085,23X4717,4X5061,18C1541,5C837,16C1165,5C1934,13C2150,2C1014,19C2350,7C574,24C2517,1C796,22C1876,1C949,17C1229,7C765,11C1421,1C1157,20C989,3C909,26X3461,3X7021,15C1822,5C1430,9C1854,6C1045,21X3735,4C1414,22C3542,6C1006,25C1326,6C1141,END","Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-25 09:09:16,2019-11-25 09:37:25,0,145.18.159.82,100,1688,1,2019-11-25 09:37:26,R_2afUdgtqh8Px5i0,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,82,20,2,2,2,1,1,3,2,3,2,4,1,2,5,5,1,2,4,2,2,6,3,4,4,3,3,4,5,3,4,3,4,4,4,5,6,4,2,4,3,3,3,2,3,4,4,2,2,2,3,4,5,3,4,2,4,4,4,1,4,4,3,4,4,2,4,3,4,1,4,4,2,1,2,2,1,2,1,2,1,2,3,3,1,2,5,6,6,5,6,4,4,4,4,4,5,6,6,2,2,4,5,5,4,5,5,5,3,4,4,6,5,4,"10C9192,11C3238,20C1497,19C1592,14C3276,15C3357,26C2595,21C1502,23C2271,16C2479,24C6287,13C1629,17C1216,9C1533,25C2156,18C1699,14C5674,22C1499,12C1698,21C1026,END","2C1528,3C1226,7C1053,7C1289,2C1050,4C1165,8C1459,5C1365,6C1235,5C1391,6C1156,4C938,1C1009,8C950,1C844,3C1111,7C873,3C874,5C884,4C1093,END","17C2047,4C1040,12C1300,6C1228,21C952,8C1271,16C3970,2C957,24C1732,5C1530,18C1362,7C1488,19C1458,1C1067,9C956,5C1044,10C1310,1C1118,23C2359,3C1636,END","26C1512,6C1085,16C3279,4C1112,23C1368,7C1104,20C1512,2C992,25C1790,3C1492,18C1140,5C986,11C1169,8C1036,13C1074,2C853,24C1072,6C1226,15C1309,4C1214,10C1315,1C1379,19C1097,4C1283,14C1893,7C1094,18C2400,5C1365,9C875,3C750,17C1566,8C1122,16C1732,1C1058,12C1019,5C978,22C1015,1C1252,21X2671,7C1936,END","7C1544,7C1138,6C999,4C916,1C917,4C1222,5C858,1C1205,1C1002,6C950,4C957,7C1540,8C1611,6C2327,8C727,7C927,1C775,2C854,8C833,8C884,6C1351,3C790,2C780,4C897,2C771,3C761,6C855,4C1195,7C1103,2C873,3C1043,8C789,5C1220,5C848,2C2258,5C1556,3C1292,3C676,1C1375,5C2405,END","24X7760,3C1955,17C1978,8C1375,21C2101,6C1974,20C1685,8X2086,26C6631,2C1072,9C2417,7C1149,19C1698,2C1059,14C1878,4C1207,12C1973,1C1857,11C1251,5C1014,END","22C1679,5C1249,9C1426,7C1214,21C1266,1C1726,18C2613,6C1151,23C1655,4C945,24C1231,2C1043,15C1398,1C955,26C1322,4C1578,13X2903,8C2607,11C2043,2C1133,12C1212,6C1329,25C2112,5C1194,20C1265,5C1187,21C1074,3C1051,14C2029,3C944,16C1471,6C946,19C1312,8C1120,17C1392,7C1027,10C1600,1C1261,15C1260,3C984,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel problemen zou kunnen veroorzaken,3,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-11-26 10:04:43,2019-11-26 10:29:10,0,145.18.159.82,100,1466,1,2019-11-26 10:29:10,R_V4IF7ImbHYZS3mx,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,83,20,7,1,5,1,3,3,2,5,2,1,5,1,5,6,1,4,5,1,2,6,1,2,4,1,4,6,2,4,5,1,2,7,6,7,1,1,2,6,7,3,7,3,3,4,4,2,2,1,2,5,4,4,4,4,2,4,3,1,1,3,1,3,4,5,2,1,2,1,1,2,1,1,3,2,1,1,3,4,3,2,2,2,2,5,6,6,6,6,6,4,2,2,3,6,4,6,6,1,1,3,5,3,5,4,2,6,1,6,1,4,4,6,,,,,,,,,,,,,,,,,,,,,,"25C4895,23C1855,17C2625,10X1389,16C4417,19C1602,11C4047,9C1775,15C2429,13C1043,24C1220,22C993,20C2534,21C1814,14C1601,26C1843,12C1362,12C848,22C2011,18C856,END","8C1768,2C679,1C721,1C587,3C657,2C555,6C770,8C801,7C1821,2C626,7C917,1C613,4C666,6C701,5X1239,3C818,5C663,6C704,4C674,7C812,END","14X5639,8C1644,16X5479,4C5073,20X2223,2C4355,26X5585,3C37,9C1952,6C2935,19C2918,5X1749,23C4124,5C1532,17C2019,1C1159,15C3134,1C804,18C1403,7C1886,END","15C1919,4C1195,21C1015,7C1779,22C3434,3C2021,19C3914,7C1016,14C4301,4C909,16C4263,8C1591,9C1733,2C1741,20C1628,5C967,20C1095,1C967,26C1501,4C1685,17C1335,2C1303,12C1871,3C5433,23X4835,2C781,24C1780,6C2289,18C5163,6C1527,13C2024,5C1492,10C2019,1C2129,11C1902,5C1135,25X5352,8X2644,12C2662,8C1145,END","5C1536,4C727,2C656,7C747,7C730,7C699,8C700,8C597,5C683,5C598,4C578,2C744,1C681,1C595,3C594,5X951,4C924,2C630,1C656,5X1125,7C1101,2C725,6C886,3C680,6C721,3C611,6C703,3C688,8C1026,8C605,6C906,6C516,2C652,1C720,1C832,4C1564,8C1026,3C702,4C1024,7C812,END","9C1880,7C2671,26C3072,3C1225,25X4246,4C2958,22C1734,5C756,16C1897,8C1045,20C937,1C1209,11C1005,6C3675,24C3668,5C3132,15C2835,1C1838,17C3760,2C1589,END","20C2271,8C1470,25X2370,7C2552,16C1254,3C1448,15C3018,5C1567,16C2499,4C990,24C1530,8C1041,19C1316,8C686,23C4029,1C1322,10C2202,7C2271,21X3265,3C1265,17C3892,6C885,18C1103,2C1287,23C3849,4C3961,9C1367,2C750,14C2109,6C733,22C790,4C939,26C970,3C889,13C1338,7C1093,11C1218,5C2352,12C1669,1C841,END",Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-26 12:59:58,2019-11-26 13:30:26,0,145.18.159.82,100,1828,1,2019-11-26 13:30:27,R_1GTzNOHXkrP1DYp,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,84,20,1,2,2,1,2,3,2,3,2,4,2,4,3,4,5,3,5,4,3,5,5,4,5,3,5,4,4,3,5,6,3,3,3,2,5,6,6,4,2,3,2,2,4,5,5,2,1,2,2,4,5,4,2,1,2,2,1,2,2,4,2,4,2,4,4,4,2,1,4,2,4,1,3,3,2,1,3,2,1,1,1,1,1,4,6,6,6,5,6,4,3,4,4,4,5,5,6,2,1,5,5,5,4,3,4,5,3,5,6,6,5,5,,,,,,,,"22C16455,16X3630,11C1566,9C1734,13C1398,19C1437,12X2501,24C2524,25C1749,23C2165,15C1997,10C1317,24C1325,17C1421,26C773,18C1421,10C1030,20C1878,21C1470,14C1693,END","7X2152,8C1262,1C998,2C1222,5C894,5C710,3C846,1C1173,4C861,1C868,8C980,2C1068,8C1053,3C805,6C917,7C909,5C781,3C1061,4C1021,6C1093,END","9C2528,2C2389,15X2757,5X4365,14C4038,1C1661,11C3077,8C1454,25C1524,4C1309,22C2117,3C1989,21C1173,7C1869,19C1901,8C1397,23C3237,6C1510,17C3405,1C1813,END","24C6592,3X2869,9C1757,7C1564,25C3516,5C1301,23C1941,6C1317,13C2413,3C1237,10C4309,4C1550,21C2165,4C1269,18C2229,5C1181,11C2813,2C997,20C1525,7C1294,26C1414,1C1046,16C1702,8C1350,23C1910,2C805,22C1444,1C708,14C1356,6C813,17C3093,8X1301,9C3293,7C1421,12C2021,6C1349,19C1934,4C1326,15C4669,2X1525,END","8C1000,6C782,4C758,7X1373,1C2685,6C845,5C989,8C1093,7C981,7C757,1C829,3C1149,1C790,5C789,3C1301,4C797,3C757,5C965,2C957,7C1053,1C829,3C949,1C965,2C893,8C917,7C830,5C846,2C886,2C590,2C534,6C734,6C550,5C910,8C718,8C590,4C789,3C653,6C701,4C925,4C693,END","17C2647,4C1231,22C1469,1C821,18C1574,3C766,14C1742,5C613,10C4469,6C669,25C1309,2C621,21C861,8C678,15C1062,7C822,11C1046,5C718,26C1646,3C629,END","22C1143,8C988,17X1884,3C917,18C1189,5C909,24C965,1C629,13C1461,5C645,19C1861,6C1077,15C2053,7C709,20C1222,8C1070,16C1078,2C950,26C1486,8C822,19C1805,1C837,25X1965,3C957,15C3364,6X1877,11C1765,7C1069,23C3885,4C853,21C877,7C909,12C934,1C542,10C1365,4C581,14C1668,2C525,9C749,3C629,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-11-26 15:03:36,2019-11-26 15:32:12,0,145.18.159.82,100,1715,1,2019-11-26 15:32:12,R_3MfCxUysjDNmEwv,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,85,20,1,2,2,1,2,3,2,3,2,5,2,2,6,5,2,1,2,1,3,6,2,4,4,5,3,2,6,6,3,6,5,4,6,1,4,1,1,4,5,4,5,2,4,5,4,1,2,2,3,4,3,4,5,2,3,5,3,1,1,4,2,4,5,5,1,2,4,2,2,3,1,1,1,1,1,1,2,1,4,2,2,1,1,4,3,6,6,5,6,2,3,1,2,4,5,5,6,1,2,5,5,4,3,3,6,5,4,6,7,4,2,6,"24C4135,19X8357,15C4493,14C1909,20C1173,24C1949,26C1502,21X2878,9C1837,16C1797,23C1853,18C1917,11C1373,12X2796,17C2893,13X3629,25C3573,17C3077,10X2654,22C2103,END","1C1376,3C886,1C910,5C838,2C750,7C774,4C654,6C822,8C1110,6X1701,6C1173,3C949,8C1452,8C660,1C589,7C893,2C741,5C1421,2C717,4C845,END","14C1992,1C1294,21C1294,6X1798,12C3293,5C1157,20C1901,3C781,23C1446,7C806,16C1286,4C1037,22C1669,2C653,9C933,8C765,17C1381,8C677,25C1229,3C685,END","22C2168,4C669,13C1165,7C829,14C1341,2X1189,12C1829,4C686,11C1046,3C614,13C1390,5C654,23C1078,6C646,10C1110,8C789,19C974,2C892,16C1284,6C748,24C1933,5C1213,9C1093,8C717,21X1509,3C2749,19C2517,7C2317,17C1070,1C822,15C1237,1C1077,18C1053,2C629,20C1157,8C813,25C1413,3C669,26C1085,7C821,END","6C984,2C1045,7C741,5C638,6C718,4C598,2C1118,8C46,8C1022,4C1134,3C1230,1C510,2C509,7C901,6C1829,4C637,1C532,7C542,6X870,5C2405,6C701,7C693,1C701,3C677,5C597,2C581,4C693,7C869,2C693,3C1125,5C709,3X1173,8C1501,8C589,5C701,4X1045,1C2333,3C1445,8C765,1C1229,END","25C4032,3X9293,10C2878,2C2453,11C2477,7X4405,26X6653,6C2837,20C2239,2C1693,17C1838,1C1222,13C2198,6C1382,24C1277,8C1621,16X1941,5C1652,19C3213,4C1885,END","17C2152,4C1101,20C1341,7C1006,15C1270,8X1350,25C1846,5C1061,10C6573,1C1173,12C1950,3C1278,26C1093,3C1005,11C1445,1C981,13C1430,1C1269,22C2605,5C958,18C1046,2C942,14C1429,4C797,24C3213,6C869,26C1509,5C1117,21X4245,6C2774,19X2909,7C3317,16X4316,6C1117,9C1317,3C1181,11C1237,8C1365,23C4253,2C165,END",,,,,,,,,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-26 16:57:39,2019-11-26 17:14:22,0,145.18.159.82,100,1002,1,2019-11-26 17:14:23,R_3snddtW3BTwsLcI,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,86,20,5,2,5,1,4,1,2,4,1,4,1,4,5,4,1,6,3,4,6,5,5,4,4,2,5,4,5,5,4,2,6,3,1,4,3,5,1,6,1,4,1,4,3,2,4,2,2,2,4,4,4,4,3,3,4,4,3,2,2,3,3,4,4,5,4,4,3,4,2,2,2,1,2,3,4,1,3,3,1,2,5,1,1,2,6,6,6,6,6,2,2,2,5,4,4,5,5,1,1,4,6,6,2,4,5,6,1,4,4,5,5,4,"11C2423,12C1684,21C1149,23C2397,24C1693,20C1421,26C1581,10C1709,12C1933,14C4517,13C1894,15C1062,25C1998,22C1101,16C1821,17C1109,9C1149,21C1005,18C1566,19C1046,END","4C1655,8C861,5C1117,2C1077,5C836,8C1228,3C677,8C901,6C1573,6C717,6C645,7C757,3C710,1C781,1C573,4C621,1C533,7X1333,2C1749,2C598,END","11C1088,3C869,19C765,4C653,26C885,5X1605,17C1989,1C1062,18C1606,7C782,24C1230,6C1166,21C854,6C918,9C829,2C877,10C1301,4C661,12C772,8C796,END","24C1231,6C877,10C1245,2C853,9C853,5C837,22C1421,8C1206,11C886,1C670,19C1798,6C711,20C1270,8C670,25C1974,5C732,21C908,3C684,16C1172,2C741,26C1509,7C885,23C2581,7C997,14C885,4C605,17C869,4C621,9C877,2C589,15C1477,7C782,12C678,8C718,26C1134,3C669,18C965,1C925,13C997,3C717,END","3X3280,7C902,5C758,3C766,8C726,2C726,2C606,6C638,5C565,7C653,6C509,1C653,4C653,6C581,8C677,5C532,1C644,5C629,8C589,4C597,6C645,3C742,7C669,8C589,1C741,6C909,2C725,4C661,4C549,3C613,5X1029,1C685,2C629,4C694,3C646,1C574,7C766,7C518,2C702,8C566,END","10C3343,2C1021,20C1613,4C1925,12C1109,8C1333,11C1501,4C1645,17C1734,6X1845,19C1789,3C1685,15C1741,7C1173,23C1581,1C997,24C1413,5C1087,25C1638,5C1213,END","9C1079,6X1868,23C1453,5C1205,13C997,7C1133,19C1149,2C877,18C1557,2C861,16C1469,8C1942,10C2654,4C990,15C1542,2C918,13C1845,6C893,20C1909,1X1397,21C973,5C981,22C1101,1C613,17C1925,3C845,12C1205,8C1173,25C1837,3C573,26C1038,7C613,11C1062,6C2118,18C1166,3C574,24C1229,4C1125,14C1357,8C565,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-27 11:02:13,2019-11-27 11:25:26,0,145.18.159.82,100,1393,1,2019-11-27 11:25:27,R_29brfFelDx2G7UQ,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,87,20,4,2,5,1,2,2,2,2,1,4,2,2,4,5,1,3,4,2,3,6,3,3,4,1,3,3,6,2,4,1,4,6,3,2,2,2,2,6,6,2,4,2,3,4,5,2,1,2,2,5,4,4,4,4,2,3,2,1,2,4,2,4,4,4,2,2,3,2,2,4,2,2,2,2,3,1,2,1,1,1,1,1,1,3,6,6,5,5,6,2,3,2,4,4,5,6,5,1,2,5,5,5,3,5,2,5,1,5,6,2,5,4,,,,,,,,,,,,,,,,,,,,,,"14C6335,13C1246,23C926,21C1614,10C1574,16C3501,26C1269,24C940,17C1501,12C1365,11C2653,19C1141,15X6189,21C1117,18C1366,22C926,14C2718,9C1822,25C3414,20C924,END","8C1127,4C653,3C685,3C533,2C573,7C565,1C559,6C685,1C557,4C717,7C645,5X1285,7C597,3C590,8C590,5C574,6C502,8C654,2C550,2C461,END","22C1607,8C989,21X2805,5C1021,17C2501,1C933,12C2693,3C909,23C1070,7C854,20C838,4C814,16C1541,6C869,10C2469,8C1469,19C965,4C805,15C2621,2C830,END","10X2703,2C797,23C2085,6C869,19C1238,7C822,24C1358,1C630,12C1301,5C861,17C1157,4C701,26C821,8C757,11C1069,7C741,21X1709,3C886,13C1389,2C693,22C2589,6C773,9C1157,1C829,15C2757,8C837,17C17132,3C709,16X3157,5C719,18X1342,3C837,25C2093,4C893,14C1437,7C877,20C1117,4C685,18C981,6X957,END","3C1184,6C629,6C517,7C629,5C526,3C534,4C558,8C622,7C662,2C622,3C646,4C646,7C606,7C446,1C574,2C493,6C525,8C749,8C501,7X868,5C572,6C428,2C549,5C541,5C453,3C661,5C509,8C685,2C573,3C645,4C709,6C677,4X845,1C557,1C461,1C437,8C549,1C549,2C589,4C637,END","20C1663,8C636,25C1740,5C661,13C1421,6C965,22X2677,1X1157,23C1725,8C645,16C1189,7C829,10C2421,1C646,11C1030,3C550,26X1086,2C790,12C1166,4C685,END","22C911,3C660,19C797,6C628,13C917,4C653,20C1349,1C685,23C1301,5C677,10C1357,2C541,22C981,2C589,26C893,6X1573,11C1101,7C798,17C1286,1C766,16X1974,8X917,21C1237,3C823,9C1021,1C781,15C1269,3C637,10C1005,7C670,18C822,4C614,24C1294,5C606,25X1150,6C862,12C957,7C685,14C1213,8C653,END","Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van de mensen die ebola krijgen gaan er aan dood. Velen beweren dat een genetisch gemodificeerde versie de beste kans is om een effectief vaccin te ontwikkelen om de verspreiding van de ziekte te stoppen.",2,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Tegenstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven zal schaden. Door TTIP verliest Nederland haar leidende positie in de wereldeconomie. Het ondertekenen van TTIP verhoogt het risico op een economische recessie in Nederland drastisch. TTIP bedreigt een veilige en voorspoedige toekomst voor alle mensen in Nederland.,4
+2019-11-28 15:08:06,2019-11-28 15:49:05,0,145.18.159.82,100,2458,1,2019-11-28 15:49:06,R_3JEQxlxgmGiAq2Z,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,88,20,6,1,5,1,1,3,3,5,2,2,1,1,2,1,1,3,1,2,3,4,1,2,2,1,2,2,3,1,2,2,2,3,6,2,2,1,2,6,6,1,4,2,4,5,5,2,1,2,1,5,4,4,4,3,4,5,4,3,2,4,1,2,4,4,2,1,4,2,2,2,1,1,3,3,4,1,3,1,2,1,1,1,1,2,6,6,5,5,6,2,2,2,2,5,2,6,6,1,2,5,6,5,4,5,5,6,3,4,6,5,3,4,"10C3983,22C1798,24C1694,20C1558,11C1294,18C1613,19C2213,22C973,21C1069,25C1166,26C1013,14C1037,16C2365,23C1685,12C821,9C855,15C1133,17C917,13C1589,15C837,END","2C1384,7C693,7C702,4C790,8C918,1C653,3C573,8C621,3C685,4C653,6C613,8X829,5C917,2C525,4C605,5C565,2C485,6C573,7X1197,1C654,END","9C2304,8C1535,22C1286,2C734,19C1293,8C1116,12C1028,5C1292,17C941,2C637,20X1629,6C957,24C1013,1X989,23C1221,3C941,10C845,7C749,15C1133,4C653,END","22C1000,4C589,9C733,4C629,26C1149,8C797,12C733,2C525,26C1038,5C581,11C1070,3C597,13C685,4C597,15C741,8C773,14C1149,3C525,21C1125,8X1085,10C829,1C877,19C1421,6C630,24C693,7C645,25C933,3X1182,18C1893,6C733,17C853,1C653,9C645,7C637,16X2397,5C1030,20C1366,2C686,23C1014,7C806,END","7C975,2C493,3C549,3C557,2C437,6C557,5C549,1C573,5C805,4C541,6C861,8C677,8X957,6C541,8C445,8C437,4C533,2C485,1C446,8C622,7C510,6C566,2X766,4C606,7C654,5C1126,7C517,4C469,2C445,5C477,3C709,6C589,7C637,3C885,4C557,1C621,1C462,5C678,1X958,3C486,END","11C1776,3C1566,21C2270,8C1374,18C1566,4C1189,26C1181,7C1421,13C869,6C2204,25C1781,5X1661,15C1685,2C981,16C1381,6C1269,22C1365,1C1157,10C1893,4X1046,END","22C1368,4C997,17C1293,7C965,12X1365,5C990,24C1102,6C942,26C1270,8C909,23C1045,6C661,18C901,3C613,21C669,7C677,19C1519,1X1229,14C1310,3C918,16C1173,7C909,13C1085,5C933,15C1109,1X1053,11C1429,3C1037,13C1037,8C1190,21C765,2X1005,20C2565,8X1125,9C1565,2C1189,25C1349,4C997,10C2917,1C1174,END",,,,,,,,,,,,,,,,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen zou kunnen oplossen.,1,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-29 10:13:50,2019-11-29 11:41:45,0,145.18.159.82,100,5274,1,2019-11-29 11:41:47,R_25ShHR2G3EyuGcT,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,89,20,1,1,2,1,2,3,2,4,2,2,1,4,6,5,1,4,3,1,5,6,5,6,6,2,6,5,4,3,6,2,6,5,4,2,4,2,3,6,2,3,4,2,5,5,3,2,1,1,1,4,3,3,2,4,3,5,3,4,1,4,1,3,2,5,2,1,2,4,1,3,2,1,2,1,1,2,2,1,4,2,1,3,1,8,6,6,6,6,5,3,5,6,4,4,6,6,6,1,1,5,6,4,2,3,6,5,1,2,7,5,5,5,,,,,,,,,,,,,,,,,,,,,,"21C4888,9X7501,19C2404,25C1932,12C2573,23C3685,17X7549,18C2510,14C2606,26C1590,24C2078,15C1157,13C1156,20C1052,20X5156,16C1213,22C2189,11C1549,10C1813,16C1855,END","8C2191,7C1093,2C749,4C869,7C773,8C821,7C677,3C629,4X1397,5C798,1C710,6C918,3C821,6C1333,5X2645,1C861,1C813,5C717,2C741,3C797,END","15C2087,4C1413,17C2629,2C1045,23C2085,1C1398,21C1462,4C829,16C2437,5C941,19C1821,3C742,25C1269,5C757,11C1149,7X2278,20X4478,6C1070,9C1181,8C853,END","23X3599,1C981,10C1021,7C869,15C1693,6C917,14C1645,3C901,20C1134,7X1910,17C1302,2C686,19X3518,8C1581,19C1317,8C964,10C1964,3C1029,26C1293,5C885,18C949,2C893,21C981,5C861,12C2005,8C1101,13C1037,4C877,24X1926,5C1101,22C2381,6C1325,9C2125,3C893,25C1381,1C877,16C965,4C925,11C1638,4C886,END","3C1527,3C621,2C797,7C573,8X1269,1C741,2C629,7C613,8C557,6C661,8C613,6C597,2C509,5C773,5C590,5C566,5C582,7X1238,8C790,7C622,4X1534,6C822,4C1261,4C701,4C693,3X1093,1C677,1C645,8C566,1C686,1C614,3X1134,6C678,4C750,2C734,5C702,7C734,6X1253,2C821,3C781,END","15C1399,6C1213,21C797,8C709,26C1045,3X1325,14C1125,1C621,13C1581,4C597,9C1070,2C622,24C1142,5C702,20C1014,8C782,16X2117,3C638,23C1477,7C1165,END","10C1079,6C677,25C1093,7C957,13C838,5C717,9C901,7C789,21C765,1C717,20C2205,6C765,18C1950,3C1126,22X2030,5C950,12C2718,8C821,24C1101,4C677,26C1316,8C652,23C2381,4C1085,18C845,7C1141,15C1677,2C741,11C1229,3C661,16X1701,2C1421,17C4694,1C710,14C1358,4C814,13C2550,1C1061,19C1021,6C2092,END","Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Velen beweren dat het sturen van militaire hulp naar Tanzania een hoop problemen kan veroorzaken.,3,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-11-29 14:17:31,2019-11-29 14:36:25,0,145.18.159.82,100,1134,1,2019-11-29 14:36:28,R_2f7ALmEe1GUHnCf,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,90,20,3,2,2,1,3,3,2,4,2,3,3,3,5,6,4,2,5,3,5,6,3,5,6,3,6,5,6,5,6,5,4,6,6,7,1,1,4,7,7,2,6,2,3,4,5,1,1,1,1,4,4,3,4,4,3,4,2,1,1,4,1,4,5,5,2,1,4,1,1,3,2,1,1,1,1,1,2,1,1,1,1,1,1,4,5,6,6,4,6,3,4,4,3,5,4,5,6,1,1,4,4,5,3,3,4,4,1,3,5,2,5,5,,,,,,,,"19C5015,13C1452,25C1557,23C1509,16C1197,14C901,11C1029,26C949,25C1509,15C973,10X6789,21C1053,9C821,24C901,18C797,17C821,20C925,13C781,12C638,22C806,END","5C1272,3C597,4C813,4C541,6C645,3C621,7C597,8C558,7C494,5X2174,1X3221,4C629,7C621,1C749,8C613,8C535,1C581,2C549,2C533,6C557,END","19C2895,3X5581,17X2709,1C1453,16C2237,5C885,14X3229,8C997,26C1134,4C941,21C1005,8C646,9C774,6C710,15C958,7C550,25C973,2C782,18C853,1C605,END","22C1327,3C789,14C829,6C581,24X2919,7C957,16X2405,5C628,13C804,1C764,17C925,2C877,17C709,4C901,20C949,3C813,12C717,5X1893,15C2245,3C813,18C1365,4C805,26C750,8C702,22X2022,2C846,23C2413,4C718,10C805,6X1733,11X1876,6C1029,25C1132,1C597,21C741,8C725,9C677,5C869,19X1525,7C805,END","4C728,3C566,1C478,4C494,7C486,5C710,7C502,3C502,6C927,5X1661,4C629,6C661,2X1325,8C741,8C501,1C598,8C725,1C582,2C630,8C534,4C726,3C598,6C574,3C629,2C637,5C589,5C493,3C613,2C541,6X1349,2C677,6C685,7C606,5C686,7C565,8C501,4X1373,1C645,1C525,7C565,END","15C752,8C821,16C989,5X1589,23C1230,2C758,24C1398,8C1149,17C909,4C557,18C901,3C677,19C893,1C597,14C973,7C773,20C1461,2C676,13C765,6C677,END","26C999,7C621,21C789,6C1173,20C893,3C621,19X1373,5C781,19C518,4C741,11C718,4C662,17C686,3C518,15C646,6C670,18C670,6C654,10C733,8C789,23C1933,1C796,25C764,7C605,13C805,1C653,16X1557,2C637,12C749,2C573,22C1237,1C789,14C1437,8C693,10C1461,7C733,9C2061,4X1414,24C1118,5X1502,END",,,,,,,,,,,,,,,Velen beweren dat deze methode veel voordelen kan hebben.,1,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,"Velen verzetten zich tegen de wet omdat de wet niet genoeg doet om voedsel gerelateerde ziekten te voorkomen die zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen. Ze pleiten voor strengere wetgeving.",3,Velen beweren dat de handelsovereenkomst de Nederlandse economie ten goede komt.,1
+2019-12-02 10:16:28,2019-12-02 10:34:44,0,145.18.159.82,100,1095,1,2019-12-02 10:34:44,R_bw8TjP5LDXRIgq5,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,91,20,9,2,5,1,3,3,3,5,2,2,1,1,2,6,1,2,2,1,2,6,4,2,2,1,4,5,6,2,3,1,4,7,6,6,2,2,1,6,7,1,6,3,4,4,4,2,1,4,1,4,4,4,4,2,4,5,2,1,4,3,1,4,4,2,3,2,2,1,4,2,1,1,4,3,2,1,3,3,1,1,1,1,1,1,6,6,6,3,6,1,1,1,2,4,6,6,4,2,3,6,6,6,6,6,6,6,3,5,4,2,4,1,,,,,,,,"23C3088,10C1720,9C1648,20C1371,11C1632,14C1483,16C1835,26C1199,24C2380,21C1201,13C1188,19C2944,12C1084,9C977,22C1005,18C1044,25C877,20C1027,17C1505,15C1446,END","5C2015,3C1256,2C1049,7C865,1C1224,4C946,5C864,2C1221,4X1944,6C1352,4C1341,7C883,8C1479,7C875,2C1014,1C1381,8C962,3C2165,6C934,5C988,END","22X3568,2C1247,24X1869,7X2270,11C10,4C2630,23C2287,8C1590,15C1763,3X3200,14C1935,5C1458,12X2181,7C2162,19C2152,6C2637,25C2792,4X1579,13C2080,1C2293,END","19C1639,1C1525,15C1966,7X1692,21C1261,8C902,11C1402,5X1443,18C1510,2X1455,18C1977,8C1341,23C2267,1C2389,16C4346,5C2165,12X1940,4C2280,10C1797,6C2080,13C1193,3C1261,17C1880,3C2186,24C4038,2C2160,25C2308,8C1076,14C2601,1C1277,9C1939,4C1258,20C2419,2C1863,22X1961,7C1111,26C3757,6C2476,17C1190,7C1744,END","7C1295,8C1068,4C1395,7C1518,7C757,6C1081,6C1526,1C1862,3C4279,4C796,3C709,5C986,2C1530,4C1210,8C1149,2C858,3C885,1C918,5X987,5C718,3X1047,4C1178,5C1113,2C815,2C565,1C759,6X857,7C937,8C1115,8C913,7C1052,5C1236,6C977,4C964,8C997,2C905,6C1263,3C805,1C773,1C569,END","16C1608,1C774,9C809,5C930,21C1743,7C1304,20C2174,8C1260,17C2414,7C1250,11C940,6C968,26C2896,4C1057,13C898,3C1133,18C1051,2C1036,24C1755,3C937,END","15C3088,6C1534,16X3513,7C970,10C823,6C1087,14C788,1C1079,18C2140,7C1322,24X2849,5C1199,13C1177,4C836,19C1933,4C1521,26C1232,3C1410,17C1304,5C1288,23C3584,2C862,11C2868,7C806,26C2181,3C763,21X2789,1C1009,12C1351,2C800,20C1136,8C1331,9C915,1C928,25X3180,8C1521,22C1728,6C1479,14C1105,4C943,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel problemen kan veroorzaken.,3,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,Velen beweren dat het veel voordelen kan hebben.,1,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3
+2019-12-02 12:01:43,2019-12-02 12:19:23,0,145.18.159.82,100,1059,1,2019-12-02 12:19:23,R_9MmJ1LERqcAM7gB,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,92,20,2,2,2,1,2,3,2,5,2,2,4,4,4,5,2,1,4,1,4,6,4,4,5,1,5,4,5,2,6,2,3,3,6,1,2,2,2,6,6,3,3,2,2,5,5,2,1,1,2,5,4,4,5,4,4,4,3,2,5,2,3,4,5,3,3,2,2,2,2,2,2,1,1,3,1,1,3,4,2,1,2,3,2,2,6,6,6,6,6,2,4,2,2,6,5,4,6,1,1,5,3,6,5,6,2,6,3,7,6,5,5,2,,,,,,,,"19C4088,20C1109,16X4413,21C1477,17X1357,12C1237,10C1365,23C1357,14C1149,16C2910,18C1006,15C958,26X2110,9C2392,11C2277,22C1285,13C941,25X2805,18C1301,24C1349,END","3C1872,1C838,6C846,5C990,5C942,2C1318,1C749,8C1029,7C1268,6C764,7C684,4C669,4C709,2C749,2C541,6C685,8C813,3C709,1X1501,7C1077,END","19C848,5C3077,13C3325,6C1485,23C1125,3C1388,15C1645,2C2157,16C2117,5C1101,21C1141,7C1109,25C2277,4C1237,14C1246,2C1190,9C990,8X1606,22C1734,1C1718,END","26X2367,4C1797,18C671,3C1518,18C2413,3C1109,14C973,5C1669,20C1676,6X2493,23C1301,1C1189,19C1757,1C1813,11C917,3C981,10C989,2C997,21C974,6X3149,22C1733,1X1365,15X4741,7C1557,17C2198,2C870,9C790,6X1422,13C3613,8C1445,24C1981,8C1292,16C1494,5X2590,15C1717,7C1333,25C1861,4C1173,12C1141,7C2333,END","2C1951,3C677,5C909,8C749,7C821,7C557,8C646,2C582,3X974,3C614,3C534,1C822,1C574,6C565,2C621,2C525,8C613,4C469,1C573,8C685,4C485,5C669,6C709,6C580,1C661,5X1093,7C893,6C677,5C757,3C645,2X605,7C853,1C653,5C965,4C725,6C725,4C557,7C637,4X1213,8C894,END","22C1711,3C1229,18C1037,6C2309,26C1221,4C789,11C1149,1C885,12C861,6C685,16X2245,1C1702,20C926,2C678,17C966,7C758,14C1078,8C901,23C949,5C1181,END","20C1863,8C781,14C757,4C805,18C749,8C885,17X893,4C837,11X1797,1C1421,13C1389,7C694,21C934,3X1317,23C1005,1C909,17C1279,5C1421,10C973,8C861,9C829,7C661,16C1893,2C742,22C1278,4C717,15C1349,6C725,26C1389,7X1125,19C2165,6C709,19C677,5C781,12C685,3C638,24C837,2C845,25C1725,1C1197,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gammastralen. Velen beweren dat dit een veilige manier is om bacteriën te doden die uitbraken van voedselvergiftiging met extreme diarree, overgeven en zelfs de dood, kan veroorzaken.",2,Velen beweren dat het ontwikkelen van een vaccin veel voordelen kan opleveren.,1,Jabba Oost-Afrika vormt een ernstige bedreiging voor de veiligheid van Nederlandse burgers in binnen- en  buitenland. Haar leider Abdulqadr Mumin riep zijn volgelingen op om inwoners van Westerse landen  waar mogelijk aan te vallen. Een recent AIVD-rapport liet zien dat Jabba Oost-Afrika zelfmoordterroristen uit de hele wereld traint in hun kampen.,2,Velen zijn er tegen omdat het te veel geld zou gaan kosten.,4,"Voorstanders van TTIP zeggen dat het Nederlandse werknemers en kleine bedrijven ten goede zal komen. Zonder TTIP verliest Nederland haar toppositie in de wereldeconomie. Als Nederland TTIP niet ondertekent, verhoogt dit het risico op een economische recessie drastisch. TTIP garandeert een veilige en voorspoedige toekomst voor alle mensen in Nederland.",2
+2019-12-02 12:54:21,2019-12-02 13:22:18,0,145.18.159.82,100,1676,1,2019-12-02 13:22:18,R_2rO42IEIrcQr8Cu,,,,,52.3533935546875,4.9087066650390625,anonymous,EN,93,20,10,1,5,1,5,4,2,5,2,1,4,3,4,5,1,5,3,1,4,5,3,4,5,1,5,5,6,6,4,1,3,7,7,1,2,2,2,6,7,2,6,2,4,4,4,1,1,1,1,4,4,4,4,1,3,5,1,2,4,4,1,4,4,2,2,1,1,1,4,2,1,1,1,1,2,1,1,1,1,1,1,1,1,3,6,6,6,5,6,3,4,2,2,5,5,6,5,1,1,6,6,5,5,6,4,6,1,6,7,2,6,6,,,,,,,,"24C8064,26C1316,10C1213,14C1061,20C1405,25C1205,17C925,15C1429,18C1293,15C1037,22C1389,23C1093,26C870,13C710,12C854,16C1165,11C861,21C909,19C1085,9C813,END","5C1416,8C894,8C726,3C926,2C742,6C734,7C806,1C885,2C709,5C709,5C629,7X1549,3C764,1C788,4X1333,6C789,3C821,2C789,7C645,4C557,END","19C1776,1C3582,18X1749,3C1413,23X2157,2C900,9C1157,5X1541,10C1829,7C1013,22C1301,6C941,12C2037,4X1885,17X3589,3C1206,21C1022,8C1286,14C1725,8C2141,END","16C3239,3C1501,18C1645,4C1173,20X1829,4C3277,26C1133,6C885,17C1629,2C1173,24C1477,8C1293,25C1269,1C1101,19X1205,6C2261,14C1174,1C806,21C1517,2C765,15X1781,2C1461,23C1349,8C1197,17C1757,5C1958,13C1374,7C1134,9X1870,3C965,22C1413,5C837,26C2357,7C1236,10C1277,6C3005,12C1469,3C821,11C1021,5C1309,END","7C1056,1C638,4C742,5C782,7C758,1C630,1C582,3C910,8C742,8C590,8C478,2C598,8C613,5C820,1C620,4C692,7C828,6C685,3C565,3C733,4C765,2C605,5C685,8X1461,1C701,2C541,3C685,7X877,2X909,4C773,2C717,6C629,6C549,5C766,7X1374,3C758,5C718,6C774,4C1333,6C733,END","13C1047,8X1485,10C1285,1C886,22C1829,5C1829,15C925,2C677,25X1949,3C2831,24C1572,5C1029,17C877,7C701,23C1229,6C941,18C949,4C757,16X1397,3C965,END","21C1088,5C670,11C742,4C694,23C974,1C646,24C662,3C1245,26C805,4C677,17C1253,3C741,22C581,7C829,19C909,8C798,20C910,7C862,13C917,7C725,9C741,8C797,18C837,6C949,17X1317,2C757,12C901,2C701,16X997,5C886,25X1349,6C2277,15C805,2C869,18C1037,5C853,14C1037,1C1135,10X1501,4C781,END",,,,,,,,,,,,,,,"Tijdens het productieproces wordt rauw vlees blootgesteld  aan korte doses gamma stralen. Velen beweren dat deze onbewezen methode onveilig is en er voor kan zorgen dat dodelijke straling in het voedsel terecht komt en extreme diarree, overgeven en zelfs de dood kan veroorzaken.",4,"Ebola is een zeer besmettelijke virale hemorragische koorts die hevig braken, diarree en inwendige bloedingen veroorzaakt. 90% van degenen die ebola krijgen gaan er aan dood. Velen zijn bang dat het ontwikkelen van een genetisch gemodificeerde versie van ebola als een vaccin verkeerd kan uitpakken en er voor kan zorgen dat de ziekte zich verder verspreid in plaats van het te stoppen.",4,De inzet van Nederlandse troepen is zeer riskant. De landelijke gebieden van Tanzania zijn ruig en gevaarlijk. Het succes van deze missie is hoogst onzeker. Het brengt het leven van veel Nederlandse soldaten in gevaar. Bovendien zal de aanwezigheid van Nederlandse militairen averechts werken: het zal alleen de populariteit van Jabba Oost-Afrika vergroten.,4,"Velen steunen de wet omdat voedsel gerelateerde ziekten zorgen dat bijna 500.000 Nederlanders jaarlijks last hebben van projectiel braken, waterige en bloederige diarree en ernstige krampen hebben. Ze zeggen dat dit de sterkst mogelijke wetgeving is die we kunnen hebben.",2,Velen beweren dat de handelsovereenkomst de Nederlandse economie zal schaden.,3

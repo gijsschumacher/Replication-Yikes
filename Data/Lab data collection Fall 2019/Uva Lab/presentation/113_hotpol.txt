@@ -1,0 +1,35 @@
+de SGP	-999
+de Partij voor de Dieren	72
+het CDA	-999
+de 50+ partij	-999
+de VVD	64
+GroenLinks	-999
+de SP	-999
+de ChristenUnie	-999
+de PvdA	-999
+de PVV	66
+Forum voor Democratie	-999
+D66	63
+DENK	-999
+
+in-party	Partij voor de Dieren
+out-party	VVD
+
+politiekevoorkeur3
+3	3	2	2	2	2	2	3	
+
+outparty_emo
+minachting	53	blij	56	hatelijk	39	enthousiast	61	boos	38	trots	56	angstig	44	walging	48	bang	41	bezorgd	37	afkeer	38	bitter	37	
+
+inparty_emo
+minachting	44	blij	59	hatelijk	36	enthousiast	61	boos	33	trots	71	angstig	41	walging	39	bang	35	bezorgd	34	afkeer	37	bitter	87	
+
+disgust2
+in_lobby
+Thieme_lobby.avi
+minachting	63	blij	37	hatelijk	58	enthousiast	46	boos	77	trots	28	angstig	37	walging	38	bang	59	bezorgd	68	afkeer	63	bitter	71	
+
+disgust2
+out_bedrijf
+Rutte_bedrijf.avi
+minachting	37	blij	43	hatelijk	44	enthousiast	45	boos	44	trots	41	angstig	36	walging	34	bang	39	bezorgd	35	afkeer	38	bitter	39	

@@ -1,0 +1,35 @@
+het CDA	67
+de SGP	49
+de PVV	26
+Forum voor Democratie	43
+de Partij voor de Dieren	35
+D66	60
+DENK	24
+de VVD	27
+de ChristenUnie	34
+GroenLinks	66
+de 50+ partij	65
+de PvdA	66
+de SP	67
+
+in-party	CDA
+out-party	DENK
+
+politiekevoorkeur3
+2	3	2	2	2	2	2	3	
+
+outparty_emo
+enthousiast	14	bezorgd	38	minachting	69	trots	19	walging	69	blij	12	angstig	41	hatelijk	60	boos	70	bang	35	afkeer	64	bitter	58	
+
+inparty_emo
+enthousiast	71	bezorgd	9	minachting	8	trots	53	walging	7	blij	66	angstig	6	hatelijk	7	boos	7	bang	4	afkeer	4	bitter	6	
+
+disgust2
+out_lobby
+Kuzu_lobby.avi
+enthousiast	6	bezorgd	71	minachting	80	trots	8	walging	85	blij	9	angstig	57	hatelijk	69	boos	84	bang	35	afkeer	86	bitter	53	
+
+disgust2
+in_bedrijf
+Buma_bedrijf.avi
+enthousiast	21	bezorgd	65	minachting	80	trots	5	walging	71	blij	5	angstig	39	hatelijk	57	boos	88	bang	40	afkeer	88	bitter	62	

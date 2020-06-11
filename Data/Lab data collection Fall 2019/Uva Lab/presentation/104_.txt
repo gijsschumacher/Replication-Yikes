@@ -1,0 +1,32 @@
+
+104		Hoe negatief/positief vind jij de VVD?	73	Hoe negatief/positief vind jij de PvdA?	43	Hoe negatief/positief vind jij de PVV?	-1	Hoe negatief/positief vind jij de Partij voor de Dieren?	66	Hoe negatief/positief vind jij de 50+ partij?	65	Hoe negatief/positief vind jij DENK?	60	Hoe negatief/positief vind jij het CDA?	37	49198	Hoe negatief/positief vind jij D66?	81	Hoe negatief/positief vind jij de SGP?	50	Hoe negatief/positief vind jij Forum voor Democratie?	59	Hoe negatief/positief vind jij de ChristenUnie?	44	Hoe negatief/positief vind jij de SP?	45	Hoe negatief/positief vind jij GroenLinks?	-1	68847	Op welke van de volgende partijen zou jij het meest waarschijnlijk stemmen tijdens de volgende verkiezingen?	8	Op welke van de volgende partijen zou jij zeker NIET stemmen tijdens de volgende verkiezingen?	7	81479	Als ik over D66 praat, dan zeg ik wij in plaats van zij.	3	Ik ben genteresseerd in wat andere mensen van D66 vinden.	2	Als mensen kritiek leveren op D66, dan voel ik mij persoonlijk beledigd.	2	Ik heb veel gemeen met andere mensen die D66 steunen.	3	Als D66 het slecht doet in een opinie peiling, dan word ik daar chagrijnig van.	2	Als ik iemand ontmoet die D66 steunt, dan voel ik me net die persoon verbonden.	3	Als ik over D66 praat, dan verwijs ik ernaar als mijn partij.	2	Als mensen positief praten over D66, dan geeft me dat een goed gevoel.	3	121044	Ik voel me hatelijk	34	Ik voel minachting	41	Ik voel me bezorgd	26	Ik voel me boos	29	Ik voel me angstig	27	Ik voel me trots	-1	173907	Ik voel me enthousiast	-1	Ik voel afkeer	41	Ik voel me bang	33	Ik voel me blij	-1	Ik voel walging	-1	Ik voel me bitter	-1	186756	Ik voel me hatelijk	24	Ik voel minachting	26	Ik voel me bezorgd	25	Ik voel me boos	23	Ik voel me angstig	24	Ik voel me trots	62	215071	Ik voel me enthousiast	56	Ik voel afkeer	23	Ik voel me bang	24	Ik voel me blij	58	Ik voel walging	16	Ik voel me bitter	16	226903	Ik voel me hatelijk	58	Ik voel minachting	58	Ik voel me bezorgd	59	Ik voel me boos	58	Ik voel me angstig	62	Ik voel me trots	30	334263	Ik voel me enthousiast	38	Ik voel afkeer	68	Ik voel me bang	34	Ik voel me blij	30	Ik voel walging	63	Ik voel me bitter	57	346745	Ik voel me hatelijk	44	Ik voel minachting	40	Ik voel me bezorgd	39	Ik voel me boos	34	Ik voel me angstig	38	Ik voel me trots	53	457005	Ik voel me enthousiast	52	Ik voel afkeer	39	Ik voel me bang	33	Ik voel me blij	55	Ik voel walging	-1	Ik voel me bitter	37	468421	Ik voel walging	64	513301	Ik voel walging	39	533483	Ik voel walging	81	554048	Ik voel walging	19	574497	Ik voel walging	79	594612	Ik voel walging	22	618361	Ik voel walging	97	639259	
+
+Pictures:	
+A	SAM1:	6	SAM2:	5
+X	SAM1:	4	SAM2:	8
+O	SAM1:	5	SAM2:	9
+P	SAM1:	5	SAM2:	9
+C	SAM1:	7	SAM2:	4
+M	SAM1:	4	SAM2:	9
+B	SAM1:	8	SAM2:	3
+S	SAM1:	1	SAM2:	9
+U	SAM1:	4	SAM2:	9
+I	SAM1:	9	SAM2:	3
+F	SAM1:	5	SAM2:	9
+1	SAM1:	6	SAM2:	7
+W	SAM1:	1	SAM2:	9
+G	SAM1:	5	SAM2:	7
+D	SAM1:	9	SAM2:	3
+H	SAM1:	7	SAM2:	4
+2	SAM1:	7	SAM2:	7
+N	SAM1:	5	SAM2:	9
+V	SAM1:	4	SAM2:	9
+Y	SAM1:	1	SAM2:	9
+Z	SAM1:	7	SAM2:	6
+J	SAM1:	9	SAM2:	3
+L	SAM1:	7	SAM2:	6
+Q	SAM1:	5	SAM2:	9
+K	SAM1:	7	SAM2:	6
+R	SAM1:	4	SAM2:	9
+E	SAM1:	8	SAM2:	3
+T	SAM1:	2	SAM2:	9

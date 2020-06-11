@@ -1,0 +1,13 @@
+interplot               Plot Conditional Coefficients of a Variable in
+                        an Interaction Term
+interplot.default       Plot Conditional Coefficients in (Generalized)
+                        Linear Models with Interaction Terms
+interplot.lmerMod       Plot Conditional Coefficients in Mixed-Effects
+                        Models with Interaction Terms
+interplot.lmmi          Plot Conditional Coefficients in (Generalized)
+                        Linear Models with Imputed Data and Interaction
+                        Terms
+interplot.mlmmi         Plot Conditional Coefficients in Mixed-Effects
+                        Models with Imputed Data and Interaction Terms
+interplot.plot          Plot Conditional Coefficients in Models with
+                        Interaction Terms
